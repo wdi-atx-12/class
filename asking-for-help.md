@@ -8,8 +8,9 @@ We ask that you take the following steps when dealing with technical questions..
 
 1. Try something else
 2. Google your exact problem or error
-3. Ask another classmate
-4. Ask an instructor
+3. Rubber duck
+4. Ask another classmate
+5. Ask an instructor
 
 If your question is **non-technical** -- you're feeling overwhelmed, or you have questions about a homework or project prompt -- please reach out directly to an instructor or Sara as soon as possible! We are here for you!
 

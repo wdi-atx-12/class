@@ -61,10 +61,24 @@
 </tr>
 </tbody></table>
 
+## Administrative
+- [Graduation Requirements](graduation-requirements.md)
+- [Attendance](attendance.md)
+- [Homework](homework.md)
+- [Asking for Help](asking-for-help.md)
 
 ## Important Dates
   * **10/9** Christopher Columbus Day (No Class)
   * **11/23 - 11/24** Thanksgiving Break
+
+## Outcomes
+- Outcomes will be with Nicole every Wednesday from 9-10:30am in classroom 1 on floor 14
+- [Outcomes Programming Syllabus](https://docs.google.com/document/d/1Ffny2iO3MCv4O4y8jeymOXosf_aevLz5I4v3WOgEKM8/edit)
+
+## Office Hours
+- The format is informal: the instructors are "on duty" to help with homework or anything that you may have questions about in general from class. You are strongly encouraged to use these times to also work with fellow students on assignments and projects!
+- **Tuesday 5-6:15pm** In-person office hours with Britney Jo
+- **Thursday 7:30-9pm** Remote office hours with Chris
 
 ## Communication
   - You have been invited to the following Slack teams:
@@ -74,11 +88,6 @@
     - [GA ATX Alumni](https://atx-alumni.slack.com) - Austin WDI Alumni (You will be invited end of course)
   - For informal communication that doesn't need to be private, use the #wdi-atx-12 room
   - If you need to talk to the instructors privately, use the Slack rooms we're creating for you with both of the instructors in it. Please don't Slack or email the instructors individually as this creates information asymmetry.
-
-## Outcomes
-
-- Outcomes will be with Nicole every Wednesday from 9-10:30 am in
-- [Outcomes Programming Syllabus]()
 
 ## Slack Tips
 
@@ -98,3 +107,24 @@
 - These same backtick tricks also work on **GitHub** and **Slack**.
 - `@here`: Sends a message to everyone currently online in a Slack room
 - Please refrain from using `@channel` unless it is absolutely necessary.
+
+## Contact Information
+The best way to contact your instructors is by using the private Slack channel created with you and both Instructional Leads.
+
+#### Instructional Leads
+**Chris Johnson**
+- christopher.johnson@generalassemb.ly
+- @jhnsnc
+
+**Britney Jo Ludkowski**
+- britneyjo@generalassemb.ly
+- @britneyjo
+
+#### GA Producers
+**Sara Miller**
+- sara.miller@generalassemb.ly
+- @sara.miller
+
+**Leah Strange**
+- leahb@generalassemb.ly
+- @leahstrange

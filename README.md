@@ -70,6 +70,7 @@
 ## Important Dates
   * **10/9** Christopher Columbus Day (No Class)
   * **11/23 - 11/24** Thanksgiving Break
+  * **12/1** Final Presentations + Last Day of Class!
 
 ## Outcomes
 - Outcomes will be with Nicole every Wednesday from 9-10:30am in classroom 1 on floor 14

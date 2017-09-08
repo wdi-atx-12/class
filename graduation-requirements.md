@@ -9,7 +9,7 @@
 > Please reference our [attendance](attendance.md) and [homework](homework.md) policies for more information.
 
 #### In Order To...
-- Attend the Student Spotlight
+- Attend the Student Showcase
 - Create a GA Profile on [profiles.generalassemb.ly](http://profiles.generalassemb.ly)
 - Receive any Outcomes support
 - Participate in a group project during WDI

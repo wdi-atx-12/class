@@ -85,24 +85,25 @@
     - [GA Immersive Students](https://ga-students.slack.com)
       - [#wdi-atx-12](https://ga-students.slack.com/messages/wdi-atx-12/)
       - [#wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
-    - [GA ATX Alumni](https://atx-alumni.slack.com) - Austin WDI Alumni (You will be invited end of course)
-  - For informal communication that doesn't need to be private, use the #wdi-atx-12 room
+    - [GA ATX Alumni](https://atx-alumni.slack.com) - Austin WDI Alumni (You will be invited at end of course)
+  - For informal communication that doesn't need to be private, use the `#wdi-atx-12` room.
   - If you need to talk to the instructors privately, use the Slack rooms we're creating for you with both of the instructors in it. Please don't Slack or email the instructors individually as this creates information asymmetry.
+  - For jokes, memes, and all manner of nonsense, use the `#wdi-atx-12-partytime` room. Keep in mind that the Code of Conduct still applies. Absolutely have fun, but don't do anything that would get in the way of making this a positive learning environment for everyone.
 
 ## Slack Tips
 
 - <code>&grave;hello&grave;</code>: Backticks (the top-left of the keyboard on a Mac) makes text show up in a monospace font. Great for code.
 - Code blocks are made with three backticks:
   <pre>
-  &grave;&grave;&grave;
+  ```
   The backticks MUST be on a line by themselves!
-  &grave;&grave;&grave;
+  ```
   </pre>
 - You can specify the language directly after the backticks to have colors show up on github
   <pre>
-  &grave;&grave;&grave;javascript
+  ```javascript
     var words = ["hello", "what", "is", "up", "dude"];
-  &grave;&grave;&grave;
+  ```
   </pre>
 - These same backtick tricks also work on **GitHub** and **Slack**.
 - `@here`: Sends a message to everyone currently online in a Slack room

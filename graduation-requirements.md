@@ -2,8 +2,8 @@
 #### You Must...
 - Complete at least 80% of your homework over the whole course
 - Complete and present each of WDI's four projects
-- Be absent no more than 3 days over the whole course
-- Be tardy no more than 5 days over the whole course
+- Attend class (no more than 3 absences over the whole course)
+- Attend class on time (no more than 5 tardies over the whole course)
   - 3 late arrivals = 1 absence
 
 > Please reference our [attendance](attendance.md) and [homework](homework.md) policies for more information.

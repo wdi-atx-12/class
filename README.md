@@ -130,3 +130,8 @@ The best way to contact your instructors is by using the private Slack channel c
 **Leah Strange**
 - leahb@generalassemb.ly
 - @leahstrange
+
+#### Career Coach
+**Nicole Umphress**
+- nicole.hartig@generalassemb.ly
+- @nicoleumphress

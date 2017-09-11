@@ -10,6 +10,58 @@ Take advantage of your squad to:
 
 Your squad is **not** the same as the group you'll have for the unit group project.
 
+## Instructors
+
+| Name                 | Github Username |
+|----------------------|-----------------|
+| Chris Johnson        | [jhnsnc](https://github.com/jhnsnc) |
+| Britney Jo           | [britneyjo](https://github.com/britneyjo) |
+
+## Squad 1
+
+| Name                 | Github Username |
+|----------------------|-----------------|
+| Sophia Chow          | [so-chow](https://github.com/so-chow) |
+| Wes Maffly-Kipp      | [maffkipp](https://github.com/maffkipp) |
+| Dazaev Vives         | [dazaevvc](https://github.com/dazaevvc) |
+| Peter Kong           | [ludocracy](https://github.com/ludocracy) |
+
+## Squad 2
+
+| Name                 | Github Username |
+|----------------------|-----------------|
+| Jay Lara             | [jaylara](https://github.com/jaylara) |
+| Matt Cain            | [thrakc3001](https://github.com/thrakc3001) |
+| Karla Moreno         | [deathnaut](https://github.com/deathnaut) |
+| Carrington Simecheck | [LallieDragon](https://github.com/LallieDragon) |
+
+## Squad 3
+
+| Name                 | Github Username |
+|----------------------|-----------------|
+| Jesse Lewis          | [Lazercat](https://github.com/Lazercat) |
+| TJ Loughry           | [TheTeejers](https://github.com/TheTeejers) |
+| Andrew Chavez        | [chavandrew](https://github.com/chavandrew) |
+| Francisco Ordaz      | [CescoIV](https://github.com/CescoIV) |
+
+## Squad 4
+
+| Name                 | Github Username |
+|----------------------|-----------------|
+| Devin Ryan           | [dev-ry](https://github.com/dev-ry) |
+| Raul Gutierrez       | [rcgutierrez](https://github.com/rcgutierrez) |
+| Matt Ray             | [MattRay0295](https://github.com/MattRay0295) |
+| Gerry Morales        | [sleeptightiger](https://github.com/sleeptightiger) |
+
+## Squad 5
+
+| Name                 | Github Username |
+|----------------------|-----------------|
+| Rika Bernheisel      | [dreamleader9](https://github.com/dreamleader9) |
+| James Tang           | [TangJames](https://github.com/TangJames) |
+| Natasha Robarge      | [natasha-robarge](https://github.com/natasha-robarge) |
+
+
 <!---
 Template:
 

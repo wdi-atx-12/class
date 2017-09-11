@@ -26,7 +26,7 @@
 
 <tr>
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
-<td>Icebreakers && <a href=" ">Installfest</a><!--Monday Morning--></td>
+<td>Icebreakers && <a href="https://github.com/GA-WDI/installfest">Installfest</a><!--Monday Morning--></td>
 <td>-<!--Tuesday Morning--></td>
 <td>-<!--Wednesday Morning--></td>
 <td>-<!--Thursday Morning--></td>
@@ -66,6 +66,7 @@
 - [Attendance](attendance.md)
 - [Homework](homework.md)
 - [Asking for Help](asking-for-help.md)
+- [Exit Tickets](https://docs.google.com/forms/d/e/1FAIpQLSc-YRNhQikysPZlAjuR3p_2EIrW_M046cwsCIS9zjlEXkKDDA/viewform)
 
 ## Important Dates
   * **10/9** Christopher Columbus Day (No Class)

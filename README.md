@@ -35,7 +35,7 @@
 
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
-<td>Command Line Interface<!--Monday Afternoon--></td>
+<td>[Command Line Interface](./w01/d01/command-line.md)<!--Monday Afternoon--></td>
 <td>-<!--Tuesday Afternoon--></td>
 <td>-<!--Wednesday Afternoon--></td>
 <td>-<!--Thursday Afternoon--></td>
@@ -53,7 +53,7 @@
 
 <tr>
 <td><strong>Training</strong></td>
-<td>CLI Golf <!--Monday HW--></td>
+<td>[CLI Golf](https://github.com/wdi-atx-12/cli_golf) <!--Monday HW--></td>
 <td>-<!--Tuesday HW--></td>
 <td>-<!--Wednesday HW--></td>
 <td>-<!--Thursday HW--></td>
@@ -123,14 +123,10 @@ The best way to contact your instructors is by using the private Slack channel c
 - britneyjo@generalassemb.ly
 - @britneyjo
 
-#### GA Producers
+#### Student Experience Producer
 **Sara Miller**
 - sara.miller@generalassemb.ly
 - @sara.miller
-
-**Leah Strange**
-- leahb@generalassemb.ly
-- @leahstrange
 
 #### Career Coach
 **Nicole Umphress**

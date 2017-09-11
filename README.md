@@ -35,7 +35,7 @@
 
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
-<td>[Command Line Interface](./w01/d01/command-line.md)<!--Monday Afternoon--></td>
+<td><a href="./w01/d01/command-line.md">Command Line Interface</a><!--Monday Afternoon--></td>
 <td>-<!--Tuesday Afternoon--></td>
 <td>-<!--Wednesday Afternoon--></td>
 <td>-<!--Thursday Afternoon--></td>
@@ -53,7 +53,7 @@
 
 <tr>
 <td><strong>Training</strong></td>
-<td>[CLI Golf](https://github.com/wdi-atx-12/cli_golf) <!--Monday HW--></td>
+<td><a href="https://github.com/wdi-atx-12/cli_golf">CLI Golf</a> <!--Monday HW--></td>
 <td>-<!--Tuesday HW--></td>
 <td>-<!--Wednesday HW--></td>
 <td>-<!--Thursday HW--></td>

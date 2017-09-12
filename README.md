@@ -18,7 +18,7 @@
 <tr>
 <td><strong>9:00am - 10:15am Module 1</strong></td>
 <td>Introductions<!--Monday Drills--></td>
-<td>Personal Portfolios<!--Tuesday Drills--></td>
+<td><a href="blogging.md">Intro to Blogs</a><!--Tuesday Drills--></td>
 <td>Outcomes<!--Wednesday Drills--></td>
 <td>-<!--Thursday Drills--></td>
 <td>-<!--Friday Drills--></td>

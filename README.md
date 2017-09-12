@@ -27,7 +27,7 @@
 <tr>
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td>Icebreakers && <a href="https://github.com/GA-WDI/installfest">Installfest</a><!--Monday Morning--></td>
-<td>-<!--Tuesday Morning--></td>
+<td>-Git</td>
 <td>-<!--Wednesday Morning--></td>
 <td>-<!--Thursday Morning--></td>
 <td>-<!--Friday Morning--></td>
@@ -36,7 +36,7 @@
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td><a href="./w01/d01/command-line.md">Command Line Interface</a><!--Monday Afternoon--></td>
-<td>-<!--Tuesday Afternoon--></td>
+<td>-GitHub</td>
 <td>-<!--Wednesday Afternoon--></td>
 <td>-<!--Thursday Afternoon--></td>
 <td>-<!--Friday Afternoon--></td>
@@ -45,7 +45,7 @@
 <tr>
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
 <td>How the Internet Works<!--Monday Dusk--></td>
-<td>-<!--Tuesday Dusk--></td>
+<td>-Git Drills</td>
 <td>-<!--Wednesday Dusk--></td>
 <td>-<!--Thursday Dusk--></td>
 <td>-<!--Friday Dusk--></td>
@@ -54,10 +54,10 @@
 <tr>
 <td><strong>Training</strong></td>
 <td><a href="https://github.com/wdi-atx-12/cli_golf">CLI Golf</a> <!--Monday HW--></td>
-<td>-<!--Tuesday HW--></td>
+<td><a href="https://github.com/wdi-atx-12/github-practice-reading">Git/GitHub Reading</a></td>
 <td>-<!--Wednesday HW--></td>
 <td>-<!--Thursday HW--></td>
-<td>-<!--Friday HW--></td>
+<td>-<!--Friday HW--></td>a
 </tr>
 </tbody></table>
 

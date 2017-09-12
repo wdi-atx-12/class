@@ -17,6 +17,8 @@ Your squad is **not** the same as the group you'll have for the unit group proje
 | Chris Johnson        | [jhnsnc](https://github.com/jhnsnc) |
 | Britney Jo           | [britneyjo](https://github.com/britneyjo) |
 
+# Unit 1 Squads
+
 ## Squad 1
 
 | Name                 | Github Username |
@@ -73,12 +75,3 @@ Template:
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 --->
-
-## Unit 1
-
-| Squad 1 | Squad 2 | Squad 3 | Squad 4 | Squad 5
-| --- | --- | --- | --- | --- |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |

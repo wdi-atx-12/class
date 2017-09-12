@@ -10,20 +10,18 @@
 
 - Plagiarized homework will not be accepted.
 
-> Concerned about what is considered plagiarism? Consult an instructor.
-
 - Assignments are graded on whether or not you seem to have made a meaningful effort to do them. There are three possible grades for each assignment:
   - **Complete:** something was turned in, and meaningful effort was made.
   - **Incomplete:** something was turned in, but meaningful effort was not made: the submission is blank, or it was blatantly copied wholesale from somewhere.
   - **Missing:** nothing was turned in.
 
-- **Feedback** will not be given on assignments by an instructor unless you specifically request it. Requests for feedback, however, are encouraged. To make a request, you will need to submit a github issue on the main homework repository. On the main repo, click the 'issues' tab at the top, then the green button that says "New Issue". Please be very specific in your requests.
-
+- **Feedback:** Instructors will grade one random homework assignment on Friday each week. All other requests for feedback must be specifically requested. Requests for feedback, however, are encouraged.
+<!--
   For example:
 
   > Any thoughts as to why the method on line 49 kept returning 'NaN'?
 
-- You can track your homework completion rate in [Garnet](http://garnet.wdidc.org).
+- You can track your homework completion rate in [Garnet](http://garnet.wdidc.org). -->
 
 # Homework Submission Process
 

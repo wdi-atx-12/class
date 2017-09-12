@@ -27,7 +27,7 @@
 <tr>
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td>Icebreakers && <a href="https://github.com/GA-WDI/installfest">Installfest</a><!--Monday Morning--></td>
-<td>-Git</td>
+<td><a href="./w01/d02/01-intro-to-git-and-github.md">Git</a></td>
 <td>-<!--Wednesday Morning--></td>
 <td>-<!--Thursday Morning--></td>
 <td>-<!--Friday Morning--></td>
@@ -36,7 +36,7 @@
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td><a href="./w01/d01/command-line.md">Command Line Interface</a><!--Monday Afternoon--></td>
-<td>-GitHub</td>
+<td><a href="./w01/d02/02-github-remotes-and-branching.md">GitHub</a></td>
 <td>-<!--Wednesday Afternoon--></td>
 <td>-<!--Thursday Afternoon--></td>
 <td>-<!--Friday Afternoon--></td>
@@ -45,7 +45,7 @@
 <tr>
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
 <td>How the Internet Works<!--Monday Dusk--></td>
-<td>-Git Drills</td>
+<td><a href="./w01/d02/">Git Drills</a></td>
 <td>-<!--Wednesday Dusk--></td>
 <td>-<!--Thursday Dusk--></td>
 <td>-<!--Friday Dusk--></td>

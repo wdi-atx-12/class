@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #ffffff;
+  background: #121318;
+}
+
+/*
+ * Primary Navigation (add your style changes here)
+ */
+
+.primary-nav {
+  position: fixed; /* nav doesn't scroll with the page */
+  left: 0; /* positioned full width, along the top */
+  top: 0;
+  width: 100%;
+  max-width: 100%;
+  height: 100px;
+  display: block; /* shown even though not necessary (nav defaults to block) */
+  padding: 0 30px;
+  font-family: Helvetica, Arial, sans-serif;
+  background: #e62325; /* red background */
+}
+
+.brand-logo {
+  display: inline-block;
+  height: 100%;
+  padding: 0 20px;
+  color: white;
+  text-decoration: none;
+  font-size: 60px;
+  line-height: 100px;
+  font-weight: 700;
+  transition: 400ms all;
+}
+
+.brand-logo:hover, .brand-logo:focus {
+  background: rgba(0,0,0,0.3);
+}
+
+.primary-nav-list {
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  float: right;
+  height: 100%;
+}
+
+.primary-nav-item {
+  list-style-type: none;
+  display: inline-block;
+  height: 100%;
+  margin: 0 10px;
+}
+
+.primary-nav-item a {
+  display: inline-block;
+  height: 100%;
+  padding: 0 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 100px;
+  transition: 400ms all;
+}
+
+.primary-nav-item a:hover, .primary-nav-item a:focus {
+  color: #ffbbbb;
+  text-decoration: underline;
+  background-color: rgba(0,0,0,0.6);
+}
+
+/*
+ * Main Content Area (ignore this, make your changes above)
+ */
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body, main {
+  min-height: 100%;
+}
+
+h1 {
+  padding: 25% 2.0rem;
+  margin: 0;
+  color: #ffffff;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 200;
+  text-align: center;
+  line-height: 1.2;
+}
+

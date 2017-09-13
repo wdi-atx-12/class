@@ -1,0 +1,42 @@
+/*
+ * Layout Stuff Up Top(scroll down)
+ */
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+@media (min-width: 400px) {
+  .container {
+    width: 85%;
+    padding: 0;
+  }
+}
+@media (min-width: 550px) {
+  .container {
+    width: 80%;
+  }
+}
+
+.blog-article {
+  margin: 5rem 0;
+}
+
+/*
+ * Colors and Typography (add your style changes here)
+ */
+
+body {
+  color: #333;
+  background: white;
+}
+
+

@@ -1,0 +1,27 @@
+// PLAIN TEXT
+
+My Favorite Dad Jokes:
+
+What does a cloud wear on its butt?
+Thunderpants.
+
+What do you call a cow with no legs?
+Ground beef.
+
+
+-----------------
+
+// BAD WAY
+
+<div class="page">
+  <div class="header">Robin's Favorite Jokes</div>
+
+  <div class="joke">
+    <div class="setup">What does a cloud wear on its butt?</div>
+    <div class="punchline">Thunderpants.</div>
+  </div>
+
+  <div class="joke">
+    <div class="setup">What do you call a cow with no legs?</div>
+    <div class="punchline">Ground beef.</div>
+  </div>

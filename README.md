@@ -28,7 +28,7 @@
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td>Icebreakers && <a href="https://github.com/GA-WDI/installfest">Installfest</a><!--Monday Morning--></td>
 <td><a href="./w01/d02/01-intro-to-git-and-github.md">Git</a></td>
-<td>-<!--Wednesday Morning--></td>
+<td><a href="./w01/d03/intro-to-html/">Intro to HTML</a></td>
 <td>-<!--Thursday Morning--></td>
 <td>-<!--Friday Morning--></td>
 </tr>
@@ -37,7 +37,7 @@
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td><a href="./w01/d01/command-line.md">Command Line Interface</a><!--Monday Afternoon--></td>
 <td><a href="./w01/d02/02-github-remotes-and-branching.md">GitHub</a></td>
-<td>-<!--Wednesday Afternoon--></td>
+<td><a href="./w01/d03/intro-to-css/">Intro to CSS</a></td>
 <td>-<!--Thursday Afternoon--></td>
 <td>-<!--Friday Afternoon--></td>
 </tr>
@@ -57,7 +57,7 @@
 <td><a href="https://github.com/wdi-atx-12/github-practice-reading">Git/GitHub Reading</a></td>
 <td>-<!--Wednesday HW--></td>
 <td>-<!--Thursday HW--></td>
-<td>-<!--Friday HW--></td>a
+<td>-<!--Friday HW--></td>
 </tr>
 </tbody></table>
 

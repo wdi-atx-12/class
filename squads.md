@@ -62,6 +62,7 @@ Your squad is **not** the same as the group you'll have for the unit group proje
 | Rika Bernheisel      | [dreamleader9](https://github.com/dreamleader9) |
 | James Tang           | [TangJames](https://github.com/TangJames) |
 | Natasha Robarge      | [natasha-robarge](https://github.com/natasha-robarge) |
+| Miguel Mejia      | [Miguelwoluba](https://github.com/Miguelwoluba) |
 
 
 <!---

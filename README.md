@@ -29,7 +29,7 @@
 <td>Icebreakers && <a href="https://github.com/GA-WDI/installfest">Installfest</a><!--Monday Morning--></td>
 <td><a href="./w01/d02/01-intro-to-git-and-github.md">Git</a></td>
 <td><a href="./w01/d03/intro-to-html/">Intro to HTML</a></td>
-<td>-<!--Thursday Morning--></td>
+<td><a href="./w01/d04/01-flexbox/">Flexbox</a></td>
 <td>-<!--Friday Morning--></td>
 </tr>
 

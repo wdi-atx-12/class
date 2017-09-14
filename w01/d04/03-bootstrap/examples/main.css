@@ -1,0 +1,15 @@
+*{
+  border: dashed 1px black;
+}
+
+p{
+  min-height: 250px;
+}
+
+.content-card{
+  min-height: 200px;
+  background-color: lightblue;
+}
+.taller{
+  min-height: 400px;
+}

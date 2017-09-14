@@ -1,0 +1,41 @@
+*{
+  border: dashed 1px white;
+}
+
+body {
+  background-color: lightblue;
+}
+
+ul{
+  width:80%;
+  margin: auto;
+}
+li{
+  display:inline-block;
+  margin:15px;
+  font-size: 16px;
+}
+section{
+  margin:auto;
+  width: 80%;
+}
+
+.inline-block-card{
+  color: white;
+  font-size: 16pt;
+  width: 300px;
+  height: 200px;
+  background-color: darkblue;
+  margin:15px;
+  padding: 15px;
+  display: inline-block;
+}
+
+.bs-example-card{
+  color: white;
+  font-size: 16pt;
+  background-color: darkblue;
+  min-height: 200px;
+  padding:15px;
+
+}

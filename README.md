@@ -46,7 +46,7 @@
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
 <td>How the Internet Works<!--Monday Dusk--></td>
 <td><a href="./w01/d02/">Git Drills</a></td>
-<td>-<!--Wednesday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-12/mockup-html-css-lab">HTML/CSS Lab</a></td>
 <td>-<!--Thursday Dusk--></td>
 <td>-<!--Friday Dusk--></td>
 </tr>
@@ -55,7 +55,7 @@
 <td><strong>Training</strong></td>
 <td><a href="https://github.com/wdi-atx-12/cli_golf">CLI Golf</a> <!--Monday HW--></td>
 <td><a href="https://github.com/wdi-atx-12/github-practice-reading">Git/GitHub Reading</a></td>
-<td>-<!--Wednesday HW--></td>
+<td><a href="https://github.com/wdi-atx-12/mockup-html-css-lab">Finish HTML/CSS Lab</a></td>
 <td>-<!--Thursday HW--></td>
 <td>-<!--Friday HW--></td>
 </tr>

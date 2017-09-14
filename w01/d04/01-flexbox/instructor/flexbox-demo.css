@@ -1,0 +1,77 @@
+/*
+ * Setup stuff here
+ */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #00695c;
+  color: #ffffff;
+}
+
+/*
+ * General Article Styles
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+.article {
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  background-color: #f8f5f2;
+  box-shadow: 0 2px 7px rgba(0, 39, 32, 0.6);
+}
+
+.article-image {
+  position: relative;
+  margin: 0;
+}
+
+.article-image:after { /* shadow cover to better frame/emphasize image  */
+  content: " ";
+  z-index: 1;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(0deg, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.0) 50%, rgba(0,0,0,0.15) 100%);
+}
+
+.article-image img {
+  width: 100%;
+  vertical-align: top; /* removes small, mysterious space after <img>s */
+}
+
+.article-body {
+  padding: 15px;
+  color: #546e7a;
+}
+
+.article-title {
+  margin: 0;
+  color: #f57c00; /* #263238; */
+  font-family: 'Open Sans', sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.article-content {
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+.article-info {
+  font-size: 14px;
+  font-style: italic;
+}
+
+/*
+ * Flexbox Demo Starts below
+ */
+
+/* TODO: add stuff here! */

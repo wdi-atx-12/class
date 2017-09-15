@@ -17,20 +17,20 @@
 <tbody>
 <tr>
 <td><strong>9:00am - 10:15am Module 1</strong></td>
-<td>Introductions<!--Monday Drills--></td>
-<td><a href="blogging.md">Intro to Blogs</a><!--Tuesday Drills--></td>
-<td>Outcomes<!--Wednesday Drills--></td>
-<td>HW Review & <a href="https://github.com/wdi-atx-12/mockup-html-css-lab/tree/master/additional-labs/beginner/portfolio-blog">Begin Portfolio</a></td>
-<td>-<!--Friday Drills--></td>
+<td>Introductions<!--Monday Warm Up--></td>
+<td><a href="blogging.md">Intro to Blogs</a><!--Tuesday Warm Up--></td>
+<td>Outcomes<!--Wednesday Warm Up--></td>
+<td>HW Review & <a href="https://github.com/wdi-atx-12/mockup-html-css-lab/tree/master/additional-labs/beginner/portfolio-blog">Begin Portfolio</a><!--Thursday Warm Up--></td>
+<td><a href="./w01/d05/intro-to-sass/">SASS</a><!--Friday Warm Up--></td>
 </tr>
 
 <tr>
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td>Icebreakers && <a href="https://github.com/GA-WDI/installfest">Installfest</a><!--Monday Morning--></td>
-<td><a href="./w01/d02/01-intro-to-git-and-github.md">Git</a></td>
-<td><a href="./w01/d03/intro-to-html/">Intro to HTML</a></td>
-<td><a href="./w01/d04/01-flexbox/">Flexbox</a></td>
-<td>-<!--Friday Morning--></td>
+<td><a href="./w01/d02/01-intro-to-git-and-github.md">Git</a><!--Tuesday Morning--></td>
+<td><a href="./w01/d03/intro-to-html/">Intro to HTML</a><!--Wednesday Morning--></td>
+<td><a href="./w01/d04/01-flexbox/">Flexbox</a><!--Thursday Morning--></td>
+<td><a href="./w01/d05/advanced-css-lab/">Advanced CSS Lab<!--Friday Morning--></td>
 </tr>
 
 <tr>
@@ -39,7 +39,7 @@
 <td><a href="./w01/d02/02-github-remotes-and-branching.md">GitHub</a></td>
 <td><a href="./w01/d03/intro-to-css/">Intro to CSS</a></td>
 <td><a href="./w01/d04/02-responsive-web-design/">Responsive Web Design</a></td>
-<td>-<!--Friday Afternoon--></td>
+<td><a href="./w01/d05/front-end-lab">Front End Lab</a> && <a href="https://docs.google.com/spreadsheets/d/1cW4H2RXIsCq577yvj_yCO2kzELEFxcRARl1i1deRvF4/edit?usp=sharing">1-on-1's</a></td>
 </tr>
 
 <tr>
@@ -48,7 +48,7 @@
 <td><a href="./w01/d02/">Git Drills</a></td>
 <td><a href="https://github.com/wdi-atx-12/mockup-html-css-lab">HTML/CSS Lab</a></td>
 <td><a href="./w01/d04/03-bootstrap/">Bootstrap</a></td>
-<td>-<!--Friday Dusk--></td>
+<td>Friday Stand Up!</td>
 </tr>
 
 <tr>

@@ -20,7 +20,7 @@
 <td>Introductions<!--Monday Drills--></td>
 <td><a href="blogging.md">Intro to Blogs</a><!--Tuesday Drills--></td>
 <td>Outcomes<!--Wednesday Drills--></td>
-<td>-<!--Thursday Drills--></td>
+<td>HW Review & <a href="https://github.com/wdi-atx-12/mockup-html-css-lab/tree/master/additional-labs/beginner/portfolio-blog">Begin Portfolio</a></td>
 <td>-<!--Friday Drills--></td>
 </tr>
 
@@ -38,7 +38,7 @@
 <td><a href="./w01/d01/command-line.md">Command Line Interface</a><!--Monday Afternoon--></td>
 <td><a href="./w01/d02/02-github-remotes-and-branching.md">GitHub</a></td>
 <td><a href="./w01/d03/intro-to-css/">Intro to CSS</a></td>
-<td>-<!--Thursday Afternoon--></td>
+<td><a href="./w01/d04/02-responsive-web-design/">Responsive Web Design</a></td>
 <td>-<!--Friday Afternoon--></td>
 </tr>
 
@@ -47,7 +47,7 @@
 <td>How the Internet Works<!--Monday Dusk--></td>
 <td><a href="./w01/d02/">Git Drills</a></td>
 <td><a href="https://github.com/wdi-atx-12/mockup-html-css-lab">HTML/CSS Lab</a></td>
-<td>-<!--Thursday Dusk--></td>
+<td><a href="./w01/d04/03-bootstrap/">Bootstrap</a></td>
 <td>-<!--Friday Dusk--></td>
 </tr>
 
@@ -56,7 +56,7 @@
 <td><a href="https://github.com/wdi-atx-12/cli_golf">CLI Golf</a> <!--Monday HW--></td>
 <td><a href="https://github.com/wdi-atx-12/github-practice-reading">Git/GitHub Reading</a></td>
 <td><a href="https://github.com/wdi-atx-12/mockup-html-css-lab">Finish HTML/CSS Lab</a></td>
-<td>-<!--Thursday HW--></td>
+<td><a href="https://github.com/wdi-atx-12/Flexbox-News">Flexbox News</a></td>
 <td>-<!--Friday HW--></td>
 </tr>
 </tbody></table>

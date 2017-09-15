@@ -1,0 +1,18 @@
+.team{
+  background-color: #e8e8e7
+}
+
+article{
+  width: 80%;
+  margin: 0 auto;
+}
+
+article img{
+  display: inline-block;
+  width: 24%;
+}
+
+.text{
+  display: inline-block;
+  width: 74%;
+}

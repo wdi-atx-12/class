@@ -1,0 +1,19 @@
+# System files (OS X)
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.AppleDB
+.AppleDesktop
+.apdisk
+
+# System files (Windows)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Dependency directory
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+node_modules

@@ -1,0 +1,15 @@
+{
+  "name": "project-name",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "run-sequence": "^2.1.0"
+  }
+}

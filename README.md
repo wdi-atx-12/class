@@ -30,7 +30,7 @@
 <td><a href="./w01/d02/01-intro-to-git-and-github.md">Git</a><!--Tuesday Morning--></td>
 <td><a href="./w01/d03/intro-to-html/">Intro to HTML</a><!--Wednesday Morning--></td>
 <td><a href="./w01/d04/01-flexbox/">Flexbox</a><!--Thursday Morning--></td>
-<td><a href="./w01/d05/advanced-css-lab/">Advanced CSS Lab<!--Friday Morning--></td>
+<td><a href="./w01/d05/advanced-css-lab/">Workshop - Advanced CSS Lab<!--Friday Morning--></td>
 </tr>
 
 <tr>

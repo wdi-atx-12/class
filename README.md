@@ -87,7 +87,7 @@
 
 <tr>
 <td><strong>Module_2</strong></td>
-<td>-</td>
+<td><a href="./w02/d01/js-data-types.md/">JS Data Types</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -114,7 +114,7 @@
 
 <tr>
 <td><strong>Training</strong></td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/js-adventure">JS Adventure</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -178,7 +178,7 @@
 <td><a href="https://github.com/wdi-atx-12/github-practice-reading">Git/GitHub Reading</a></td>
 <td><a href="https://github.com/wdi-atx-12/mockup-html-css-lab">Finish HTML/CSS Lab</a></td>
 <td><a href="https://github.com/wdi-atx-12/Flexbox-News">Flexbox News</a></td>
-<td>-<!--Friday HW--></td>
+<td>Finish CSS Lab from Class</td>
 </tr>
 </tbody></table>
 

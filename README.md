@@ -1,6 +1,127 @@
 # WDI ATX 12
 
 ## Unit 1: Front-End Development
+
+<!--#### Week X - WEEK TOPICS
+
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>Module_1</strong></td>
+<td>-</td>
+<td>-</td>
+<td>Outcomes</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_2</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_3</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_4</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Training</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody></table>-->
+
+#### Week 2 - JavaScript Fundamentals
+
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>Module_1</strong></td>
+<td><a href="./w02/d01/week01-review/">Week 1 Review</a></td>
+<td>-</td>
+<td>Outcomes</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_2</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_3</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_4</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Training</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody></table>
+
 #### Week 1 - Git, HTML, CSS
 
 <table><thead>
@@ -16,17 +137,17 @@
 
 <tbody>
 <tr>
-<td><strong>9:00am - 10:15am Module 1</strong></td>
+<td><strong>Module_1</strong></td>
 <td>Introductions<!--Monday Warm Up--></td>
 <td><a href="blogging.md">Intro to Blogs</a><!--Tuesday Warm Up--></td>
 <td>Outcomes<!--Wednesday Warm Up--></td>
-<td>HW Review & <a href="https://github.com/wdi-atx-12/mockup-html-css-lab/tree/master/additional-labs/beginner/portfolio-blog">Begin Portfolio</a><!--Thursday Warm Up--></td>
+<td>HW Review &amp;&amp; <a href="https://github.com/wdi-atx-12/mockup-html-css-lab/tree/master/additional-labs/beginner/portfolio-blog">Begin Portfolio</a><!--Thursday Warm Up--></td>
 <td><a href="./w01/d05/intro-to-sass/">SASS</a><!--Friday Warm Up--></td>
 </tr>
 
 <tr>
-<td><strong>10:30am - 1:00pm Module 2</strong></td>
-<td>Icebreakers && <a href="https://github.com/GA-WDI/installfest">Installfest</a><!--Monday Morning--></td>
+<td><strong>Module_2</strong></td>
+<td>Icebreakers &amp;&amp; <a href="https://github.com/GA-WDI/installfest">Installfest</a><!--Monday Morning--></td>
 <td><a href="./w01/d02/01-intro-to-git-and-github.md">Git</a><!--Tuesday Morning--></td>
 <td><a href="./w01/d03/intro-to-html/">Intro to HTML</a><!--Wednesday Morning--></td>
 <td><a href="./w01/d04/01-flexbox/">Flexbox</a><!--Thursday Morning--></td>
@@ -34,16 +155,16 @@
 </tr>
 
 <tr>
-<td><strong>2:00pm - 3:30pm Module 3</strong></td>
+<td><strong>Module_3</strong></td>
 <td><a href="./w01/d01/command-line.md">Command Line Interface</a><!--Monday Afternoon--></td>
 <td><a href="./w01/d02/02-github-remotes-and-branching.md">GitHub</a></td>
 <td><a href="./w01/d03/intro-to-css/">Intro to CSS</a></td>
 <td><a href="./w01/d04/02-responsive-web-design/">Responsive Web Design</a></td>
-<td><a href="./w01/d05/front-end-lab">Front End Lab</a> && <a href="https://docs.google.com/spreadsheets/d/1cW4H2RXIsCq577yvj_yCO2kzELEFxcRARl1i1deRvF4/edit?usp=sharing">1-on-1's</a></td>
+<td><a href="./w01/d05/front-end-lab">Front End Lab</a> &amp;&amp; <a href="https://docs.google.com/spreadsheets/d/1cW4H2RXIsCq577yvj_yCO2kzELEFxcRARl1i1deRvF4/edit?usp=sharing">1-on-1's</a></td>
 </tr>
 
 <tr>
-<td><strong>3:30pm - 4:30pm Module 4</strong></td>
+<td><strong>Module_4</strong></td>
 <td>How the Internet Works<!--Monday Dusk--></td>
 <td><a href="./w01/d02/">Git Drills</a></td>
 <td><a href="https://github.com/wdi-atx-12/mockup-html-css-lab">HTML/CSS Lab</a></td>

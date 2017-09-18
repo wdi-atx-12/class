@@ -96,7 +96,7 @@
 
 <tr>
 <td><strong>Module_3</strong></td>
-<td>-</td>
+<td><a href="./w02/d01/js-control-flow/">JS Control Flow</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -105,7 +105,7 @@
 
 <tr>
 <td><strong>Module_4</strong></td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/js-control-flow-training">JS Control Flow Training</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

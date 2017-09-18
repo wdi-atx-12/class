@@ -1,4 +1,4 @@
-##Austin Referrals Splash Page
+## Austin Referrals Splash Page
 
 Use the following as a design reference from the PSD provided by the designer:
 
@@ -23,4 +23,3 @@ Assets have been provided by the designer
 #### Other Notes:
 - responsive, one page
 - hover effects on buttons and social media links needed
-

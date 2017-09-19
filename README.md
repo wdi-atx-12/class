@@ -87,8 +87,8 @@
 
 <tr>
 <td><strong>Module_2</strong></td>
-<td><a href="./w02/d01/js-data-types.md/">JS Data Types</a></td>
-<td><a href="./w02/d02/js-functions.md/">JS Functions</a></td>
+<td><a href="./w02/d01/js-datatypes.md">JS Data Types</a></td>
+<td><a href="./w02/d02/js-functions/">JS Functions</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

@@ -97,7 +97,7 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td><a href="./w02/d01/js-control-flow/">JS Control Flow</a></td>
-<td>-</td>
+<td><a href="./w02/d02/functions-training.md">Functions Training</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

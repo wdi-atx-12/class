@@ -115,7 +115,7 @@
 <tr>
 <td><strong>Training</strong></td>
 <td><a href="https://github.com/wdi-atx-12/js-adventure">JS Adventure</a></td>
-<td>-</td>
+<td>Finish <a href="./w02/d02/functions-training.md">Functions Training</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

@@ -13,14 +13,14 @@ If class begins at 9:00AM, then any attendance taken at 9:01 will be considered 
 
 ## How to do it
 
-1. Log into [Garnet](http://garnet.wdidc.org). You'll see something like this:
+1. Log into [Garnet](http://garnet.wdidc.org) and click the name of your current cohort. In this case, that's "ATX-WDI-12". You will see something like this:
 
 ![View on log-in](./how-to/images/logged-on.png)
 
-2. Click the name of your current cohort. In this case, that's "ATX-WDI-12". Then you will see something like this:
+2. Click the grey button that says "CHECK IN FOR... *current date* " to mark yourself present for the day. This button will only be available for one hour after the beginning of the day. After that hour, you will be considered absent.
 
 ![Check-in button](./how-to/images/check-in-button.png)
 
-3. Click the grey button that says "CHECK IN FOR... *current date* " to mark yourself present for the day. This button will only be available for one hour after the beginning of the day. After that hour, you will be considered absent. Once you have successfully checked in, you will see a success notification like this:
+3. Once you have successfully checked in, you will see a success notification like this and you have been marked present for the day!
 
 ![Check-in button](./how-to/images/checked-in-success.png)

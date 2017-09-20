@@ -1,10 +1,10 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Javascript Objects - Problem Set
 
 ## Challenges
-1. [Letter Count](/challenges/letter-count.js)
-2. [Query String Parser](/challenges/query-string-parser.js)
-3. [Birthday Countdown](/challenges/birthday-countdown.js)
-4. [Ping Pong](/challenges/ping-pong.js)
+1. [Letter Count](challenges/letter-count.js)
+2. [Query String Parser](challenges/query-string-parser.js)
+3. [Birthday Countdown](challenges/birthday-countdown.js)
+4. [Ping Pong](challenges/ping-pong.js)
 
 #### Key Concepts
 * Working with **key-value pairs**

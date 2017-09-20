@@ -89,7 +89,7 @@
 <td><strong>Module_2</strong></td>
 <td><a href="./w02/d01/js-datatypes.md">JS Data Types</a></td>
 <td><a href="./w02/d02/js-functions/">JS Functions</a></td>
-<td>-</td>
+<td><a href="./w02/d03/js-objects/">JS Objects</a></td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -98,7 +98,7 @@
 <td><strong>Module_3</strong></td>
 <td><a href="./w02/d01/js-control-flow/">JS Control Flow</a></td>
 <td><a href="./w02/d02/functions-training.md">Functions Training</a></td>
-<td>-</td>
+<td>-<!-- <a href="./w02/d03/js-objects-training/">JS Objects Training</a> --></td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -106,8 +106,8 @@
 <tr>
 <td><strong>Module_4</strong></td>
 <td><a href="https://github.com/wdi-atx-12/js-control-flow-training">JS Control Flow Training</a></td>
-<td>-</td>
-<td>-</td>
+<td><a href="./w02/d02/js-callbacks.md">JS Callbacks</a></td>
+<td>-<!-- continue JS Objects Training and ES6 Syntax --></td>
 <td>-</td>
 <td>-</td>
 </tr>

@@ -81,7 +81,7 @@
 <td><a href="./w02/d01/week01-review/">Week 1 Review</a></td>
 <td>-</td>
 <td>Outcomes</td>
-<td>-</td>
+<td>Homework Review</td>
 <td>-</td>
 </tr>
 
@@ -90,7 +90,7 @@
 <td><a href="./w02/d01/js-datatypes.md">JS Data Types</a></td>
 <td><a href="./w02/d02/js-functions/">JS Functions</a></td>
 <td><a href="./w02/d03/js-objects/">JS Objects</a></td>
-<td>-</td>
+<td><a href="./w02/d04/dom-manipulation/">DOM Manipulation</a></td>
 <td>-</td>
 </tr>
 
@@ -99,7 +99,7 @@
 <td><a href="./w02/d01/js-control-flow/">JS Control Flow</a></td>
 <td><a href="./w02/d02/functions-training.md">Functions Training</a></td>
 <td><a href="./w02/d03/js-objects-training/">JS Objects Training</a></td>
-<td>-</td>
+<td>DOM Events</td>
 <td>-</td>
 </tr>
 
@@ -108,7 +108,7 @@
 <td><a href="https://github.com/wdi-atx-12/js-control-flow-training">JS Control Flow Training</a></td>
 <td><a href="./w02/d02/js-callbacks.md">JS Callbacks</a></td>
 <td>continue JS Objects Training and ES6 Syntax</td>
-<td>-</td>
+<td>jQuery</td>
 <td>-</td>
 </tr>
 

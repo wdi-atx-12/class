@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>DOM Manipulation</title>
+
+    <!-- styles -->
+    <link rel="stylesheet" href="normalize.min.css" />
+    <link rel="stylesheet" href="example.css" />
+
+    <!-- we could reference our JS files in the head instead if we needed to -->
+    <!-- <script src="example.js"></script> -->
+  </head>
+  <body>
+    <div class="page-wrapper">
+
+      <h1>Just an HTML Page</h1>
+
+      <section class="paragraph-section">
+        <h2>Some Paragraphs</h2>
+        <p class="lipsum lipsum-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam venenatis orci sed nisi imperdiet faucibus. Integer non lacus elementum, finibus eros quis, volutpat justo. Donec sit amet sem ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum at magna mattis, aliquet nisl id, pulvinar nisi. Nulla iaculis mollis quam, non congue neque rhoncus eget. Mauris et rutrum felis. Mauris vel nisi turpis. Sed condimentum ornare felis eget molestie. Fusce fermentum urna pharetra felis euismod vehicula. Proin pharetra odio felis, id dapibus diam finibus sit amet. Proin in ullamcorper tortor, nec molestie massa. In tincidunt massa semper egestas fringilla. Nullam id sem felis.</p>
+        <p class="lipsum lipsum-2">Vestibulum finibus et nunc id lacinia. Ut lacinia accumsan nulla eu commodo. Mauris ut magna at orci malesuada commodo ut in risus. Praesent aliquet nunc in sem tempor vulputate vel ac ante. Maecenas tempus sit amet magna sit amet faucibus. Suspendisse potenti. Aenean pretium eget tellus sed laoreet. Quisque elementum leo quis ligula ornare, a condimentum magna luctus. Integer dictum est sit amet lorem tristique elementum. Maecenas varius malesuada justo, vitae sagittis tortor tincidunt rutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin leo mauris, consectetur quis tincidunt at, viverra in libero.</p>
+        <p class="lipsum lipsum-3">Etiam id metus eu odio sagittis mattis. Integer porta bibendum velit, vitae accumsan enim varius eu. Etiam ac feugiat risus. Maecenas odio nisl, consectetur a mollis at, suscipit iaculis magna. Sed quis nibh eu enim semper aliquet. Maecenas porta lorem quis tellus maximus, ut volutpat erat interdum. Donec diam tellus, molestie nec volutpat ut, vestibulum non mauris. Aenean placerat, leo vitae mattis consectetur, mi nisi tempus tellus, non congue ante est vitae est. Vivamus sed nisl a urna posuere varius.</p>
+      </section><!-- paragraph-section -->
+
+      <section class="form-section">
+        <h2>An HTML Form</h2>
+        <form>
+          <label for="my-text">Your Name:</label>
+          <input type="text" id="my-text" name="my-text" placeholder="enter your name" required />
+
+          <label for="my-dropdown">Favorite Color:</label>
+          <select id="my-dropdown" name="my-dropdown">
+            <option>red</option>
+            <option>orange</option>
+            <option>yellow</option>
+            <option>green</option>
+            <option>blue</option>
+            <option>purple</option>
+            <option selected>pink</option>
+            <option>black</option>
+            <option>white</option>
+          </select>
+
+          <label for="my-checkbox">Engage Warp Drive?</label>
+          <input type="checkbox" id="my-checkbox" name="my-checkbox" />
+
+          <input type="submit" id="my-submit-button" />
+        </form>
+      </section><!-- form-section -->
+
+      <section class="links-section">
+        <h2>Some Links</h2>
+        <ul>
+          <li>
+            <a class="link link-1" href="https://www.google.com/" target="_blank">Hi there. I'm link 1.</a>
+          </li>
+          <li>
+            <a class="link link-2" href="https://twitter.com/" target="_blank">Oh gosh, another link. Number 2.</a>
+          </li>
+          <li>
+            <a class="link link-3" href="https://www.youtube.com/" target="_blank">A third link? You spoil me.</a>
+          </li>
+          <li>
+            <a class="link link-4" href="https://imgur.com/" target="_blank">Four? Four links? Madness.</a>
+          </li>
+          <li>
+            <a class="link link-5" href="mailto:christopher.johnson@generalassemb.ly" target="_blank">It's the fifth and final link.</a>
+          </li>
+        </ul>
+      </section><!-- links-section -->
+
+    </div><!-- page-wrapper -->
+
+    <script src="example.js"></script>
+  </body>
+</html>

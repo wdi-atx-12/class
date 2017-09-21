@@ -81,7 +81,7 @@
 <td><a href="./w02/d01/week01-review/">Week 1 Review</a></td>
 <td>-</td>
 <td>Outcomes</td>
-<td>-</td>
+<td>HW Review</td>
 <td>-</td>
 </tr>
 

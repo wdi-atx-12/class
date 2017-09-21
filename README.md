@@ -107,7 +107,7 @@
 <td><strong>Module_4</strong></td>
 <td><a href="https://github.com/wdi-atx-12/js-control-flow-training">JS Control Flow Training</a></td>
 <td><a href="./w02/d02/js-callbacks.md">JS Callbacks</a></td>
-<td>-<!-- continue JS Objects Training and ES6 Syntax --></td>
+<td>continue JS Objects Training and ES6 Syntax</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -116,7 +116,7 @@
 <td><strong>Training</strong></td>
 <td><a href="https://github.com/wdi-atx-12/js-adventure">JS Adventure</a></td>
 <td>Finish <a href="./w02/d02/functions-training.md">Functions Training</a></td>
-<td>-<!-- <a href="https://github.com/wdi-atx-12/deck_of_cards">Deck of Cards</a> --></td>
+<td><a href="https://github.com/wdi-atx-12/deck_of_cards">Deck of Cards</a></td>
 <td>-</td>
 <td>-</td>
 </tr>

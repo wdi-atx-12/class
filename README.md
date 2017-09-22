@@ -82,7 +82,7 @@
 <td>-</td>
 <td>Outcomes</td>
 <td>HW Review</td>
-<td>-</td>
+ <td><a href="https://github.com/wdi-atx-12/tic-tac-toe">Unit 1 Project</a></td>
 </tr>
 
 <tr>
@@ -91,7 +91,7 @@
 <td><a href="./w02/d02/js-functions/">JS Functions</a></td>
 <td><a href="./w02/d03/js-objects/">JS Objects</a></td>
 <td><a href="./w02/d04/dom-manipulation/">DOM Manipulation</a></td>
-<td>-</td>
+<td>Unit 1 Project</td>
 </tr>
 
 <tr>
@@ -100,7 +100,7 @@
 <td><a href="./w02/d02/functions-training.md">Functions Training</a></td>
 <td><a href="./w02/d03/js-objects-training/">JS Objects Training</a></td>
 <td>DOM Events</td>
-<td>-</td>
+<td>Unit 1 Project</td>
 </tr>
 
 <tr>
@@ -109,7 +109,7 @@
 <td><a href="./w02/d02/js-callbacks.md">JS Callbacks</a></td>
 <td>continue JS Objects Training and ES6 Syntax</td>
 <td>jQuery</td>
-<td>-</td>
+<td>Friday Stand Up!</td>
 </tr>
 
 <tr>
@@ -117,8 +117,8 @@
 <td><a href="https://github.com/wdi-atx-12/js-adventure">JS Adventure</a></td>
 <td>Finish <a href="./w02/d02/functions-training.md">Functions Training</a></td>
 <td><a href="https://github.com/wdi-atx-12/deck_of_cards">Deck of Cards</a></td>
-<td>-</td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/imgur-takeover">Imgur Takeover</a></td>
+<td>Continue Unit 1 Project</td>
 </tr>
 </tbody></table>
 

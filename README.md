@@ -107,7 +107,7 @@
 <td><strong>Module_4</strong></td>
 <td><a href="https://github.com/wdi-atx-12/js-control-flow-training">JS Control Flow Training</a></td>
 <td><a href="./w02/d02/js-callbacks.md">JS Callbacks</a></td>
-<td>continue JS Objects Training and ES6 Syntax</td>
+<td>JS Objects Training and ES6 Syntax</td>
 <td>jQuery</td>
 <td>Friday Stand Up!</td>
 </tr>

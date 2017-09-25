@@ -62,6 +62,66 @@
 </tr>
 </tbody></table>-->
 
+#### Week 3 - AJAX and Using APIs
+
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>Module_1</strong></td>
+<td>Unit 1 Project</td>
+<td>-</td>
+<td>Outcomes</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_2</strong></td>
+<td>Unit 1 Project</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_3</strong></td>
+<td>Unit 1 Project</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_4</strong></td>
+<td>Unit 1 Project (Tic Tac Toe) - Presentations</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Training</strong></td>
+<td><a href="https://github.com/wdi-atx-12/jquery-events-training">jQuery Events Training</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody></table>-->
+
 #### Week 2 - JavaScript Fundamentals
 
 <table><thead>

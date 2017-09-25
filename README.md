@@ -120,7 +120,7 @@
 <td>-</td>
 <td>-</td>
 </tr>
-</tbody></table>-->
+</tbody></table>
 
 #### Week 2 - JavaScript Fundamentals
 

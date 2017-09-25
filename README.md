@@ -79,7 +79,7 @@
 <tr>
 <td><strong>Module_1</strong></td>
 <td>Unit 1 Project</td>
-<td>-</td>
+<td>jQuery</td>
 <td>Outcomes</td>
 <td>-</td>
 <td>-</td>
@@ -88,7 +88,7 @@
 <tr>
 <td><strong>Module_2</strong></td>
 <td>Unit 1 Project</td>
-<td>-</td>
+<td>Intro to AJAX</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -97,7 +97,7 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td>Unit 1 Project</td>
-<td>-</td>
+<td>AJAX + jQuery Lab</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

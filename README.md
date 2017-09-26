@@ -97,7 +97,7 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td>Unit 1 Project</td>
-<td><a href="">AJAX + jQuery Lab</a></td>
+<td><a href="https://github.com/wdi-atx-12/giffaw">Giffaw Lab</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -106,7 +106,7 @@
 <tr>
 <td><strong>Module_4</strong></td>
 <td>Unit 1 Project (Tic Tac Toe) - Presentations</td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/giffaw">Giffaw Lab</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

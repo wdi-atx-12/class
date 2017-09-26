@@ -87,8 +87,8 @@
 
 <tr>
 <td><strong>Module_2</strong></td>
-<td>Unit 1 Project</td>
-<td>Intro to AJAX</td>
+<td>Intro to jQuery</td>
+<td><a href="./w03/d02/instructor/">Intro to AJAX</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -97,7 +97,7 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td>Unit 1 Project</td>
-<td>AJAX + jQuery Lab</td>
+<td><a href="">AJAX + jQuery Lab</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

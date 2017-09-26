@@ -115,7 +115,7 @@
 <tr>
 <td><strong>Training</strong></td>
 <td><a href="https://github.com/wdi-atx-12/jquery-events-training">jQuery Events Training</a></td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/weather-app">Weather App</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

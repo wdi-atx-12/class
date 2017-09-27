@@ -79,7 +79,7 @@
 <tr>
 <td><strong>Module_1</strong></td>
 <td>Unit 1 Project</td>
-<td>jQuery</td>
+<td><a href="./w03/d02/jquery.md">jQuery</a></td>
 <td>Outcomes</td>
 <td>-</td>
 <td>-</td>
@@ -89,7 +89,7 @@
 <td><strong>Module_2</strong></td>
 <td>Intro to jQuery</td>
 <td><a href="./w03/d02/instructor/">Intro to AJAX</a></td>
-<td>-</td>
+<td>Pair Programming and <a href="https://github.com/wdi-atx-12/geoquakes">Geoquakes Lab</a></td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -98,7 +98,7 @@
 <td><strong>Module_3</strong></td>
 <td>Unit 1 Project</td>
 <td><a href="https://github.com/wdi-atx-12/giffaw">Giffaw Lab</a></td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/geoquakes">Geoquakes Lab</a></td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -107,7 +107,7 @@
 <td><strong>Module_4</strong></td>
 <td>Unit 1 Project (Tic Tac Toe) - Presentations</td>
 <td><a href="https://github.com/wdi-atx-12/giffaw">Giffaw Lab</a></td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/geoquakes">Geoquakes Lab</a></td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -116,7 +116,7 @@
 <td><strong>Training</strong></td>
 <td><a href="https://github.com/wdi-atx-12/jquery-events-training">jQuery Events Training</a></td>
 <td><a href="https://github.com/wdi-atx-12/weather-app">Weather App</a></td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/collaborative-coding">Collaborative Coding Reflections</a></td>
 <td>-</td>
 <td>-</td>
 </tr>

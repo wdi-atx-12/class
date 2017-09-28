@@ -90,7 +90,7 @@
 <td>Intro to jQuery</td>
 <td><a href="./w03/d02/instructor/">Intro to AJAX</a></td>
 <td>Pair Programming and <a href="https://github.com/wdi-atx-12/geoquakes">Geoquakes Lab</a></td>
-<td><a href="./w03/d04/object-oriented-programming.md">OOP</a></td>
+<td><a href="./w03/d04/object-oriented-programming.md">Object Oriented Programming</a></td>
 <td>-</td>
 </tr>
 

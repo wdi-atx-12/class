@@ -247,7 +247,7 @@
 - [Attendance](attendance.md)
 - [Homework](homework.md)
 - [Asking for Help](asking-for-help.md)
-- [Exit Tickets](https://docs.google.com/forms/d/e/1FAIpQLSc-YRNhQikysPZlAjuR3p_2EIrW_M046cwsCIS9zjlEXkKDDA/viewform)
+- [Daily Pulse](http://bit.ly/2xjnSXz)
 
 ## Important Dates
   * **10/9** Christopher Columbus Day (No Class)

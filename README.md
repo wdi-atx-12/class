@@ -82,7 +82,7 @@
 <td><a href="./w03/d02/jquery.md">jQuery</a></td>
 <td>Outcomes</td>
 <td><a href="https://codepen.io/britneyjo/pen/dVWKNK?editors=1100">CSS Mini-Challenge (Button)</a></td>
-<td>-</td>
+<td>Week 3 Survey</td>
 </tr>
 
 <tr>
@@ -91,7 +91,7 @@
 <td><a href="./w03/d02/instructor/">Intro to AJAX</a></td>
 <td>Pair Programming and <a href="https://github.com/wdi-atx-12/geoquakes">Geoquakes Lab</a></td>
 <td><a href="./w03/d04/object-oriented-programming.md">Object Oriented Programming</a></td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/ajaxify-reddit">Reddit Lab</a></td>
 </tr>
 
 <tr>
@@ -100,7 +100,7 @@
 <td><a href="https://github.com/wdi-atx-12/giffaw">Giffaw Lab</a></td>
 <td><a href="https://github.com/wdi-atx-12/geoquakes">Geoquakes Lab</a></td>
 <td><a href="./w03/d04/object-oriented-programming.md">OOP (Deck of Cards)</a></td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/ajaxify-reddit">Reddit Lab</a></td>
 </tr>
 
 <tr>
@@ -109,7 +109,7 @@
 <td><a href="https://github.com/wdi-atx-12/giffaw">Giffaw Lab</a></td>
 <td><a href="https://github.com/wdi-atx-12/geoquakes">Geoquakes Lab</a></td>
 <td><a href="./w03/d04/object-oriented-programming.md">OOP (Deck of Cards)</a></td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/ajaxify-reddit">Reddit Lab</a></td>
 </tr>
 
 <tr>
@@ -117,7 +117,7 @@
 <td><a href="https://github.com/wdi-atx-12/jquery-events-training">jQuery Events Training</a></td>
 <td><a href="https://github.com/wdi-atx-12/weather-app">Weather App</a></td>
 <td><a href="https://github.com/wdi-atx-12/collaborative-coding">Collaborative Coding Reflections</a></td>
-<td>-</td>
+<td>GA Alumni Happy Hour</td>
 <td>-</td>
 </tr>
 </tbody></table>

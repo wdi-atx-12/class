@@ -12,8 +12,8 @@ Object oriented programming is a common pattern throughout many languages. Its p
 
 - Build practical and useful objects using Javascript constructors
 - Demonstrate a working knowledge of object properties and methods
+- Explain how prototype properties/methods are accessed and overridden
 - Design object types in JavaScript using Object Oriented Programming techniques
-- Understand the difference between pseudo-classical and prototypal inheritance in JavaScript
 
 ### Where should we be now?
 *Before this workshop, students should already be able to:*
@@ -269,6 +269,7 @@ var chrysanthemum = new Flower('pink', 65, false);
 
 <details>
 <summary>Example solution</summary>
+
 ```javascript
 function Flower(color, petals, smellsGood) {
     this.color = color;
@@ -413,45 +414,6 @@ Variables/functions that apply directly to the **class** of object--not instance
 - typically serve as "meta" information or actions about the class of object
 - static variables are most often used for useful constant values
 - static functions are typically utility functions related to the class, but not reliant on individual objects
-
-### Practice: Objects in Objects
-
-1. Create a vase object which contains an array of flower objects and a `capacity` attribute that says how many flowers the vase can hold.
-
-    <details><summary>sample solution</summary>
-    ```js
-    function Vase (capacity){
-        this.capacity = capacity || 12;
-        this.flowers = [];
-    }
-    ```
-    </details>
-  
-1. Create a method `placeFlower` that accepts a flower object as a parameter and inserts the flower into the array. What if the vase is too small? Update your method so that it checks whether the vase is already holding its capacity of flowers before it adds the extra flower. 
-    <details><summary>sample solution</summary>
-   ```js
-   Vase.prototype.placeFlower = function(flower){
-     if (this.flowers.length < this.capacity){
-       this.flowers.push(flower);
-     } else {
-       console.error('no room for more flowers!');
-     }
-   }
-   ```
-  </details>
-  
-1. Create an `addWater` method for a vase that calls the `water` method of each flower inside.
-    <details><summary>sample solution</summary>
-   ```js
-   Vase.prototype.addWater = function(){
-     this.flowers.forEach(function(flower){
-       flower.water();
-     });
-   }
-   ```
-  </details>
-
-1. Feel free to add more properties or methods for your `Vase` object type.
 
 ### ES6 `Class` syntax
 

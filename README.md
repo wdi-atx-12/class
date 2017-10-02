@@ -96,7 +96,7 @@
 
 <tr>
 <td><strong>Module_3</strong></td>
-<td>-</td>
+<td><a href="./w04/d01/hello-express/">Express Routing, Params & EJS</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

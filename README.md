@@ -79,7 +79,7 @@
 <tr>
 <td><strong>Module_1</strong></td>
 <td>Image Compression</td>
-<td>-</td>
+<td>Homework Review</td>
 <td>Outcomes</td>
 <td>-</td>
 <td>-</td>
@@ -88,7 +88,7 @@
 <tr>
 <td><strong>Module_2</strong></td>
 <td><a href="./w04/d01/node-express-intro/">Intro to Node/Express</a></td>
-<td>-</td>
+<td><a href="./w04/d02/intro-mongoose/">Intro to MongoDB + Mongoose</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -97,7 +97,7 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td><a href="./w04/d01/hello-express/">Express Routing, Params & EJS</a></td>
-<td>-</td>
+<td>Mongoose</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -106,7 +106,7 @@
 <tr>
 <td><strong>Module_4</strong></td>
 <td>-</td>
-<td>-</td>
+<td>Mongoose Methods</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

@@ -81,7 +81,7 @@
 <td>Image Compression</td>
 <td>HW Review (Emergency Compliment w/ and w/o Express)</td>
 <td>Outcomes</td>
-<td>-</td>
+<td>Blog Presentations</td>
 <td>-</td>
 </tr>
 
@@ -116,7 +116,7 @@
 <td><strong>Training</strong></td>
 <td><a href="https://github.com/wdi-atx-12/emergency-compliment">Emergency Compliment</a></td>
 <td><a href="https://github.com/wdi-atx-12/mongoose-books-app">Books App (Sprint 1)</a></td>
-<td>-</td>
+<td><a href="blogging.md">Finish Blog #1</a></td>
 <td>-</td>
 <td>-</td>
 </tr>

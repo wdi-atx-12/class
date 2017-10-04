@@ -88,7 +88,7 @@
 <tr>
 <td><strong>Module_2</strong></td>
 <td><a href="./w04/d01/node-express-intro/">Intro to Node/Express</a></td>
-<td>-</td>
+<td><a href="./w04/d02/intro-mongoose/">Intro to MongoDB + Mongoose</a></td>
 <td><a href="./w04/d03/mongoose-associations/">Data Associations with Mongoose</a></td>
 <td>-</td>
 <td>-</td>
@@ -97,7 +97,7 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td><a href="./w04/d01/hello-express/">Express Routing, Params &amp; EJS</a></td>
-<td>-</td>
+<td>Mongoose</td>
 <td><a href="https://github.com/wdi-atx-12/mongoose-books-app">Books App (Sprint 2)</a></td>
 <td>-</td>
 <td>-</td>
@@ -106,7 +106,7 @@
 <tr>
 <td><strong>Module_4</strong></td>
 <td>-</td>
-<td>-</td>
+<td>Mongoose Methods</td>
 <td><a href="https://github.com/wdi-atx-12/mongoose-books-app">Books App (Sprint 3)</a></td>
 <td>-</td>
 <td>-</td>

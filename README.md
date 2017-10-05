@@ -90,7 +90,7 @@
 <td><a href="./w04/d01/node-express-intro/">Intro to Node/Express</a></td>
 <td><a href="./w04/d02/intro-mongoose/">Intro to MongoDB + Mongoose</a></td>
 <td><a href="./w04/d03/mongoose-associations/">Data Associations with Mongoose</a></td>
-<td>-</td>
+<td><a href="./w04/d04/rest-api-design.md">REST API Design</a></td>
 <td>-</td>
 </tr>
 

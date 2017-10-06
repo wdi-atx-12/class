@@ -82,7 +82,7 @@
 <td>HW Review (Emergency Compliment w/ and w/o Express)</td>
 <td>Outcomes</td>
 <td>Blog Presentations</td>
-<td>-</td>
+<td>Heroku Deployment &amp; <a href="https://github.com/wdi-atx-12/custom-api">Custom API Lab</a></td>
 </tr>
 
 <tr>
@@ -91,7 +91,7 @@
 <td><a href="./w04/d02/intro-mongoose/">Intro to MongoDB + Mongoose</a></td>
 <td><a href="./w04/d03/mongoose-associations/">Data Associations with Mongoose</a></td>
 <td><a href="./w04/d04/rest-api-design.md">REST API Design</a></td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/custom-api">Custom API Lab</a></td>
 </tr>
 
 <tr>
@@ -99,8 +99,8 @@
 <td><a href="./w04/d01/hello-express/">Express Routing, Params &amp; EJS</a></td>
 <td>Mongoose</td>
 <td><a href="https://github.com/wdi-atx-12/mongoose-books-app">Books App (Sprint 2)</a></td>
-<td>-</td>
-<td>-</td>
+<td>Code-along: Food Tracker API</td>
+<td><a href="https://github.com/wdi-atx-12/custom-api">Custom API Lab</a></td>
 </tr>
 
 <tr>
@@ -108,8 +108,8 @@
 <td>-</td>
 <td>Mongoose Methods</td>
 <td><a href="https://github.com/wdi-atx-12/mongoose-books-app">Books App (Sprint 3)</a></td>
-<td>-</td>
-<td>-</td>
+<td>Code-along: Food Tracker API</td>
+<td><a href="https://github.com/wdi-atx-12/custom-api">Custom API Lab</a></td>
 </tr>
 
 <tr>
@@ -117,7 +117,7 @@
 <td><a href="https://github.com/wdi-atx-12/emergency-compliment">Emergency Compliment</a></td>
 <td><a href="https://github.com/wdi-atx-12/mongoose-books-app">Books App (Sprint 1)</a></td>
 <td><a href="blogging.md">Finish Blog #1</a></td>
-<td>-</td>
+<td>Entity Mapping / Planning for Custom API Lab</td>
 <td>-</td>
 </tr>
 </tbody></table>

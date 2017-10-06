@@ -99,7 +99,7 @@
 <td><a href="./w04/d01/hello-express/">Express Routing, Params &amp; EJS</a></td>
 <td>Mongoose</td>
 <td><a href="https://github.com/wdi-atx-12/mongoose-books-app">Books App (Sprint 2)</a></td>
-<td>Code-along: Food Tracker API</td>
+<td><a href="https://github.com/wdi-atx-12/food-api">Code-along: Food Tracker API</a></td>
 <td><a href="https://github.com/wdi-atx-12/custom-api">Custom API Lab</a></td>
 </tr>
 

@@ -62,6 +62,66 @@
 </tr>
 </tbody></table>-->
 
+#### Week 5 - Auth
+
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>Module_1</strong></td>
+<td>(GA holiday)</td>
+<td>Custom API Show and Tell</td>
+<td>Outcomes</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_2</strong></td>
+<td>(GA holiday)</td>
+<td><a href="./w05/d02/auth-basics/">Auth Basics</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_3</strong></td>
+<td>(GA holiday)</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_4</strong></td>
+<td>(GA holiday)</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Training</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody></table>
+
 #### Week 4 - MEN (Mongo DB, Express, Node)
 
 <table><thead>

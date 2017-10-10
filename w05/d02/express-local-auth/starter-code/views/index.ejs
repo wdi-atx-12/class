@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- bootstrap css -->
+  <link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="scripts.js"></script>
+
+  <title>Simple Login</title>
+</head>
+<body>
+  <div class="container text-center">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3">
+        <h1>Simple Login</h1>
+        <hr>
+        <div class="row">
+          <div class="col-md-2 col-md-offset-2">
+            <a href="/signup">Sign Up</a>
+          </div>
+          <div class="col-md-2">
+            <a href="/login">Log In</a>
+          </div>
+          <div class="col-md-2">
+            <a href="/profile">Profile</a>
+          </div>
+          <div class="col-md-2">
+            <a href="/logout">Log Out</a>
+          </div>
+        </div>
+        <h3>Here's a list of all the users:</h3>
+        <% for (var i=0; i < users.length; i++) { %>
+          <%= users[i].email %><br>
+        <% } %>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

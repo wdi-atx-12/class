@@ -97,7 +97,7 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td>(GA holiday)</td>
-<td>-</td>
+<td><a href="./w05/d02/express-local-auth/">Local Auth with Express</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -106,7 +106,7 @@
 <tr>
 <td><strong>Module_4</strong></td>
 <td>(GA holiday)</td>
-<td>-</td>
+<td><a href="./w05/d02/express-local-auth/">Local Auth with Express</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

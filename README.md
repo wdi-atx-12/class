@@ -89,7 +89,7 @@
 <td><strong>Module_2</strong></td>
 <td>(GA holiday)</td>
 <td><a href="./w05/d02/auth-basics/">Auth Basics</a></td>
-<td>-</td>
+<td>Review/Reflection &amp; <a href="./interview-questions/">Interview Q Practice</a></td>
 <td>-</td>
 <td>-</td>
 </tr>

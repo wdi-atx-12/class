@@ -17,6 +17,15 @@ app.get('/', function(req,res){
   res.send("Hi there!")
 });
 
+const studentRoutes = require('./routes/students');
+
+app.get('/students', studentRoutes.getAllStudents);
+app.post('/students', studentRoutes.createStudent);
+app.get('/students/:id', studentRoutes.getOneStudent);
+app.put('/students/:id', studentRoutes.updateStudent);
+app.delete('/students/:id', studentRoutes.deleteStudent);
+
+
 // app start
 app.listen(3000, function(){
   console.log('Server running on port 3000')

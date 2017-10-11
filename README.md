@@ -115,7 +115,7 @@
 <tr>
 <td><strong>Training</strong></td>
 <td>-</td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/custom-api">Step 6 of Custom API Lab</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

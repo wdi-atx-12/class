@@ -1,3 +1,5 @@
+const db = require('../models/student');
+
 function getAllStudents(req, res){
     res.send('return all students in the db')
 };
@@ -7,7 +9,14 @@ function createStudent(req, res){
 };
 
 function getOneStudent(req, res){
-    res.send('return one student by their id')
+    db.Student.findOne({_id: req.params.id}, function(err, studentData){
+      // HYPOTHETICAL
+      var courseArray = studentData.courses
+      var courseId = courseArray[0]
+      db.Course.findOne({_id: courseId}, function(err, courseData){
+        // TODO: print course information within the student json
+      })
+    })
 };
 
 function updateStudent(req, res){

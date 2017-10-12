@@ -198,7 +198,7 @@ function createStudent(req, res) {
 ```
 ## 7. Write the code for the GET one item in collection method
 ```js
-function getOneStudent(req, res){
+function getStudent(req, res){
   db.Student.findOne({_id: req.params.id }, function(err, studentData) {
   res.json(studentData);
 });
@@ -207,7 +207,7 @@ function getOneStudent(req, res){
 
 ## 8. Write the code to DELETE one item from collection
 ```js
-function deleteOneStudent(req, res) {
+function deleteStudent(req, res) {
     // get user id from url params (`req.params`)
     var studentId = req.params.id;
 
@@ -220,7 +220,7 @@ function deleteOneStudent(req, res) {
 
 ## 9. Write the code to PUT or update one item
 ```js
-function updateOneStudent(req, res) {
+function updateStudent(req, res) {
   // get user id from url params (`req.params`)
   var studentId = req.params.id;
 

@@ -81,7 +81,7 @@
 <td>(GA holiday)</td>
 <td>Custom API Show and Tell</td>
 <td>Outcomes</td>
-<td>-</td>
+<td>Image Formats && Compression</td>
 <td>-</td>
 </tr>
 
@@ -98,7 +98,7 @@
 <td><strong>Module_3</strong></td>
 <td>(GA holiday)</td>
 <td><a href="./w05/d02/express-local-auth/">Local Auth with Express</a></td>
-<td>Review Express Server Code Structure</td>
+<td><a href="./w05/d03/student-directory">Review Express Server Code Structure</a></td>
 <td><a href="./w05/d04/oauth-passport-facebook/">OAuth with Express/Passport</a></td>
 <td>-</td>
 </tr>
@@ -107,7 +107,7 @@
 <td><strong>Module_4</strong></td>
 <td>(GA holiday)</td>
 <td><a href="./w05/d02/express-local-auth/">Local Auth with Express</a></td>
-<td>Review Express Server Code Structure</td>
+<td><a href="./w05/d03/student-directory">Review Express Server Code Structure</a></td>
 <td><a href="./w05/d04/oauth-passport-facebook/">OAuth with Express/Passport</a></td>
 <td>-</td>
 </tr>
@@ -116,7 +116,7 @@
 <td><strong>Training</strong></td>
 <td>-</td>
 <td><a href="https://github.com/wdi-atx-12/custom-api">Step 6 of Custom API Lab</a></td>
-<td>-</td>
+<td><a href="./interview-questions/">Finish Interview Q Practice</a></td>
 <td>-</td>
 <td>-</td>
 </tr>

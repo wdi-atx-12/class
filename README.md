@@ -81,7 +81,7 @@
 <td>(GA holiday)</td>
 <td>Custom API Show and Tell</td>
 <td>Outcomes</td>
-<td>Image Formats && Compression</td>
+<td>Image Formats &amp;&amp; Compression</td>
 <td>-</td>
 </tr>
 
@@ -117,7 +117,7 @@
 <td>-</td>
 <td><a href="https://github.com/wdi-atx-12/custom-api">Step 6 of Custom API Lab</a></td>
 <td><a href="./interview-questions/">Finish Interview Q Practice</a></td>
-<td>-</td>
+<td>ATX Startup Crawl (networking)</td>
 <td>-</td>
 </tr>
 </tbody></table>

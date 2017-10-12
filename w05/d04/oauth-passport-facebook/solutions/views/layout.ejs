@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My OAuth-Enabled App</title>
+</head>
+<body>
+  <h1>My App with Facebook OAuth!</h1>
+  <% if (user != undefined) { %>
+    <!-- user logged in -->
+    <h2>Welcome back, <%= user.fb.firstName %></h2>
+    <% if (user.fb.profilePhoto) { %>
+      <img src="<%= user.fb.profilePhoto %>" />
+    <% } %>
+    <p><%= user.fb.firstName %> <%= user.fb.lastName %></p>
+    <p><%= user.fb.email %></p>
+    <code><pre>
+      <%= user.fb %>
+    </pre></code>
+    <a href="/logout">Log out of Facebook</a>
+  <% } else { %>
+    <!-- user not logged in -->
+    <a href="/auth/facebook">Log in with Facebook</a>
+  <% } %>
+</body>
+</html>

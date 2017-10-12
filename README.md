@@ -98,7 +98,7 @@
 <td><strong>Module_3</strong></td>
 <td>(GA holiday)</td>
 <td><a href="./w05/d02/express-local-auth/">Local Auth with Express</a></td>
-<td><a href="./w05/d03/student-directory">Review Express Server Code Structure</a></td>
+<td><a href="./w05/d03/">Review Express Server Code Structure</a></td>
 <td><a href="./w05/d04/oauth-passport-facebook/">OAuth with Express/Passport</a></td>
 <td>-</td>
 </tr>
@@ -107,7 +107,7 @@
 <td><strong>Module_4</strong></td>
 <td>(GA holiday)</td>
 <td><a href="./w05/d02/express-local-auth/">Local Auth with Express</a></td>
-<td><a href="./w05/d03/student-directory">Review Express Server Code Structure</a></td>
+<td><a href="./w05/d03/">Review Express Server Code Structure</a></td>
 <td><a href="./w05/d04/oauth-passport-facebook/">OAuth with Express/Passport</a></td>
 <td>-</td>
 </tr>

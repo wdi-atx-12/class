@@ -82,7 +82,7 @@
 <td>Custom API Show and Tell</td>
 <td>Outcomes</td>
 <td>Image Formats &amp;&amp; Compression</td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/project-01">Project 01 Intro</a></td>
 </tr>
 
 <tr>
@@ -91,7 +91,7 @@
 <td><a href="./w05/d02/auth-basics/">Auth Basics</a></td>
 <td>Review/Reflection &amp; <a href="./interview-questions/">Interview Q Practice</a></td>
 <td><a href="./w05/d04/oauth-passport-facebook/">OAuth with Express/Passport</a></td>
-<td>-</td>
+<td>Project 01</td>
 </tr>
 
 <tr>
@@ -100,7 +100,7 @@
 <td><a href="./w05/d02/express-local-auth/">Local Auth with Express</a></td>
 <td><a href="./w05/d03/">Review Express Server Code Structure</a></td>
 <td><a href="./w05/d04/oauth-passport-facebook/">OAuth with Express/Passport</a></td>
-<td>-</td>
+<td>Project 01</td>
 </tr>
 
 <tr>
@@ -109,7 +109,7 @@
 <td><a href="./w05/d02/express-local-auth/">Local Auth with Express</a></td>
 <td><a href="./w05/d03/">Review Express Server Code Structure</a></td>
 <td><a href="./w05/d04/oauth-passport-facebook/">OAuth with Express/Passport</a></td>
-<td>-</td>
+<td>Project 01</td>
 </tr>
 
 <tr>
@@ -118,7 +118,7 @@
 <td><a href="https://github.com/wdi-atx-12/custom-api">Step 6 of Custom API Lab</a></td>
 <td><a href="./interview-questions/">Finish Interview Q Practice</a></td>
 <td>ATX Startup Crawl (networking)</td>
-<td>-</td>
+<td>Project 01</td>
 </tr>
 </tbody></table>
 

@@ -370,6 +370,7 @@
 - [Homework](homework.md)
 - [Asking for Help](asking-for-help.md)
 - [Daily Pulse](http://bit.ly/2xjnSXz)
+- [Project Pulse](https://goo.gl/forms/qEyQs9RFFiM5mKrl2)
 
 ## Important Dates
   * **10/9** Christopher Columbus Day (No Class)

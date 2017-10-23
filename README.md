@@ -114,7 +114,7 @@
 
 <tr>
 <td><strong>Training</strong></td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/react-calculator-components">React Calculator Components</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

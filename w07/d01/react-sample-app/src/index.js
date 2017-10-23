@@ -12,5 +12,9 @@ const post = {
   comments: ["comment 1", "comment number 2", "comment numero tres"]
 };
 
-ReactDOM.render(<Post title={post.title} author={post.author} body={post.body} comments={post.comments}/>, document.getElementById('root'));
+// ReactDOM.render(<Post title={post.title} author={post.author} body={post.body} comments={post.comments}/>, document.getElementById('root'));
+
+ReactDOM.render(<App />, document.getElementById('root'));
+
+
 registerServiceWorker();

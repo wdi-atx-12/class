@@ -1,6 +1,6 @@
 # WDI ATX 12
 
-## Unit 2: Back-End Development
+## Unit 3: Front-End Frameworks
 
 <!--#### Week X - WEEK TOPICS
 
@@ -61,6 +61,68 @@
 <td>-</td>
 </tr>
 </tbody></table>-->
+
+#### Week 7 - React Intro
+
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>Module_1</strong></td>
+<td><a href="./w07/d01/es6/">ES6</a></td>
+<td>-</td>
+<td>Outcomes</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_2</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_3</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_4</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Training</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody></table>
+
+## Unit 2: Back-End Development
 
 #### Week 5 - Auth
 

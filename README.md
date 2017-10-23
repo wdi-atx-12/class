@@ -87,7 +87,7 @@
 
 <tr>
 <td><strong>Module_2</strong></td>
-<td>-</td>
+<td><a href="./w07/d01/react-sample-app/">React Part I</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -96,7 +96,7 @@
 
 <tr>
 <td><strong>Module_3</strong></td>
-<td>-</td>
+<td><a href="./w07/d01/react-sample-app/">React Part II</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -105,7 +105,7 @@
 
 <tr>
 <td><strong>Module_4</strong></td>
-<td>-</td>
+<td><a href="https://gist.github.com/BritneyJo/e1159ed45635d3f776fb526a13d41109">React Blog Exercise</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

@@ -6,8 +6,8 @@ class App extends Component {
   render() {
     return (
       <div>
-        <HelloWorld />
-        <HelloWorld />
+        <HelloWorld fname={"Britney Jo"} age={400}/>
+        <HelloWorld fname={"Chris"} age={100}/>
       </div>
     );
   }

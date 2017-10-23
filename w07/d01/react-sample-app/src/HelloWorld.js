@@ -4,8 +4,8 @@ class HelloWorld extends Component {
   render() {
     return (
       <div className="hello">
-        <h1>Hello, World!</h1>
-        <p>How are you?</p>
+        <h1>Hello, {this.props.fname}!</h1>
+        <p>You are {this.props.age} years old.</p>
       </div>
     );
   }

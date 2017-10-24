@@ -88,7 +88,7 @@
 <tr>
 <td><strong>Module_2</strong></td>
 <td><a href="./w07/d01/react-sample-app/">React Part I</a></td>
-<td>Nested Components</td>
+<td><a href="./w07/d02/react-practice/">React Practice - TVmaze</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

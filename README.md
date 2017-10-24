@@ -79,7 +79,7 @@
 <tr>
 <td><strong>Module_1</strong></td>
 <td><a href="./w07/d01/es6/">ES6</a></td>
-<td>-</td>
+<td>Calculator CSS</td>
 <td>Outcomes</td>
 <td>-</td>
 <td>-</td>

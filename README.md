@@ -88,7 +88,7 @@
 <tr>
 <td><strong>Module_2</strong></td>
 <td><a href="./w07/d01/react-sample-app/">React Part I</a></td>
-<td>-</td>
+<td>Nested Components</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -97,7 +97,7 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td><a href="./w07/d01/react-sample-app/">React Part II</a></td>
-<td>-</td>
+<td>React + APIs</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

@@ -3,10 +3,12 @@ import './App.css';
 import Home from './components/Home.js'
 import Contact from './components/Contact.js'
 import Procedures from './components/Procedures.js'
+import NotFound from './components/NotFound.js'
 import {
   BrowserRouter as Router,
   Route,
-  Link
+  Link,
+  Switch
 } from 'react-router-dom';
 
 class App extends Component {
@@ -15,9 +17,17 @@ class App extends Component {
       <div className="App">
         <Router>
           <div>
-            <Route exact path="/" component={Home} />
-            <Route path="/contact" component={Contact} />
-            <Route path="/procedures" component={Procedures} />
+            <nav>
+              <Link to="/">Home</Link>{' '}
+              <Link to="/contact">Contact Us</Link>{' '}
+              <Link to="/procedures">List All Procedures</Link>{' '}
+            </nav>
+            <Switch>
+              <Route exact path="/" component={Home} />
+              <Route path="/contact" component={Contact} />
+              <Route path="/procedures" component={Procedures} />
+              <Route path="*" component={NotFound} />
+            </Switch>
           </div>
         </Router>
       </div>

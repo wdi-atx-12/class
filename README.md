@@ -81,7 +81,7 @@
 <td><a href="./w07/d01/es6/">ES6</a></td>
 <td>Calculator CSS</td>
 <td>Outcomes</td>
-<td>-</td>
+<td>Blog Post #2 Presentations</td>
 <td>-</td>
 </tr>
 
@@ -89,7 +89,7 @@
 <td><strong>Module_2</strong></td>
 <td><a href="./w07/d01/react-sample-app/">React Part I</a></td>
 <td><a href="./w07/d02/concrete-calculator/">Concrete Calculator</a></td>
-<td>-</td>
+<td>React + APIs <a href="./w07/d03/chucknorris/">(Chuck Norris Jokes)</a></td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -97,8 +97,8 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td><a href="./w07/d01/react-sample-app/">React Part II</a></td>
-<td><a href="./w07/d02/react-practice/">React Practice - TVmaze</a></td>
-<td>-</td>
+<td>React Practice <a href="./w07/d02/react-practice/">(TVmaze App)</a></td>
+<td>React Router <a href="./w07/d03/dentist-website/">(Dentist Website)</a></td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -116,7 +116,7 @@
 <td><strong>Training</strong></td>
 <td><a href="https://github.com/wdi-atx-12/react-calculator-components">React Calculator Components</a></td>
 <td><a href="https://github.com/wdi-atx-12/react-stopwatch">React Stopwatch</a></td>
-<td>-</td>
+<td>Blog Post #2</td>
 <td>-</td>
 <td>-</td>
 </tr>

@@ -6,7 +6,7 @@ class Search extends Component {
     return (
       <div>
         <form onSubmit={this.props.onSubmitQuery}>
-          <input type="text" />
+          <input type="text" placeholder="Enter search term" onChange={this.props.handleSearchInput} />
           <input type="submit" />
         </form>
       </div>

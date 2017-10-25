@@ -55,8 +55,11 @@ class SearchContainer extends Component {
     }
   }
 
-  handleSearchInput(){
-
+  handleSearchInput(e) {
+    this.setState({
+      query: e.target.value
+    })
+    console.log(this.state.query)
   }
 
   onSubmitQuery(e){
@@ -66,17 +69,12 @@ class SearchContainer extends Component {
     })
   }
 
-  render() {
-    if (this.state.hasSearched === false){
-      var display = <Search query={this.state.query} onSubmitQuery={this.onSubmitQuery}/>
-    } else {
-      var display = <Results shows={this.state.shows} />
-    }
-    return (
-      <div>
-        {display}
-      </div>
-    );
+  render(){
+    const toRender = this.state.hasSearched
+      ? <Results shows={this.state.shows} />
+      : <Search query={this.state.query} handleSearchInput={this.handleSearchInput}
+      onSubmitQuery={this.onSubmitQuery}  />
+    return <div>{toRender}</div>
   }
 }
 

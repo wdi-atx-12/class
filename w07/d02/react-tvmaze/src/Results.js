@@ -6,7 +6,7 @@ class Results extends Component {
     let results = this.props.shows.map((singleShow, index) => {
       return(
         <div key={index}>
-          <img src={singleShow.image} />
+          <img src={singleShow.image} alt=""/>
           <p>{singleShow.name}</p>
         </div>
       )

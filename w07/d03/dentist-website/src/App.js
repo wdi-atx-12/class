@@ -8,7 +8,8 @@ import {
   BrowserRouter as Router,
   Route,
   Link,
-  Switch
+  Switch,
+  NavLink
 } from 'react-router-dom';
 
 class App extends Component {
@@ -18,9 +19,9 @@ class App extends Component {
         <Router>
           <div>
             <nav>
-              <Link to="/">Home</Link>{' '}
-              <Link to="/contact">Contact Us</Link>{' '}
-              <Link to="/procedures">List All Procedures</Link>{' '}
+              <NavLink exact activeClassName="green" to="/">Home</NavLink>{' '}
+              <NavLink className="contact-link" activeClassName="green" to="/contact">Contact Us</NavLink>{' '}
+              <NavLink activeClassName="green" to="/procedures">List All Procedures</NavLink>{' '}
             </nav>
             <Switch>
               <Route exact path="/" component={Home} />

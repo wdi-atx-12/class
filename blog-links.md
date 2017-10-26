@@ -98,7 +98,7 @@
 ### Sophia Chow
 
 - [From Being the Master of Everything to Being the Master of None](https://medium.com/@sophia.t.chow/from-being-the-master-of-everything-to-being-the-master-of-none-2f65c3317b29)
-- Blog Post 2: Coming Soon
+- [How To Put Some Sass In Your Life](https://medium.com/@sophia.t.chow/how-to-put-some-sass-in-your-life-31991749ab02)
 - Blog Post 3: Coming Soon
 
 ### TJ Loughry

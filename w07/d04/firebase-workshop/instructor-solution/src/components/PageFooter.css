@@ -1,0 +1,9 @@
+footer {
+  text-align: center;
+  margin: 0 5rem 5rem;
+  color: silver;
+  font-size: 1.4rem;
+}
+footer .heart {
+  color: #cf2e31;
+}

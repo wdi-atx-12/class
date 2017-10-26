@@ -1,0 +1,14 @@
+.meme {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5px 10px;
+  height: 320px;
+}
+
+.meme img {
+  max-width: 300px;
+  max-height: 300px;
+  padding: 4px;
+  border: 1px solid #999;
+}

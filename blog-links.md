@@ -80,7 +80,7 @@
 ### Natasha Robarge
 
 - [The Importance of Networking and Volunteering In a Technology Dependent Society](https://medium.com/@natasharobarge/the-importance-of-networking-and-volunteering-in-a-technology-dependent-society-48af2d3e9de5)
-- Blog Post 2: Coming Soon
+- [The Things I’ve Learned As a Coding Bootcamp Student- And a Life-long Learner](https://medium.com/@natasharobarge/the-things-ive-learned-as-a-coding-bootcamp-student-and-a-life-long-learner-5a769fc734d0)
 - Blog Post 3: Coming Soon
 
 ### Peter Kong

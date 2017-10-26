@@ -117,7 +117,7 @@
 <td><a href="https://github.com/wdi-atx-12/react-calculator-components">React Calculator Components</a></td>
 <td><a href="https://github.com/wdi-atx-12/react-stopwatch">React Stopwatch</a></td>
 <td>Blog Post #2</td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/atm-react">React ATM</a></td>
 <td>-</td>
 </tr>
 </tbody></table>

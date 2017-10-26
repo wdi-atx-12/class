@@ -1,0 +1,36 @@
+body {
+  background: #eee;
+}
+
+h1 {
+  font-family: 'Kaushan Script', cursive;
+}
+
+.add-meme {
+  padding: 25px 25px 0;
+}
+
+.meme {
+  display: flex;
+	align-items: center;
+  justify-content: center;
+  padding: 0 5px 10px;
+  height: 320px;
+}
+
+.meme img {
+  max-width: 300px;
+  max-height: 300px;
+  padding: 4px;
+  border: 1px solid #999;
+}
+
+footer {
+  text-align: center;
+  margin: 0 5rem 5rem;
+  color: silver;
+  font-size: 1.4rem;
+}
+footer .heart {
+  color: #cf2e31;
+}

@@ -99,7 +99,7 @@
 <td><a href="./w07/d01/react-sample-app/">React Part II</a></td>
 <td>React Practice <a href="./w07/d02/react-practice/">(TVmaze App)</a></td>
 <td>React Router <a href="./w07/d03/dentist-website/">(Dentist Website)</a></td>
-<td>-</td>
+<td><a href="./w07/d04/firebase-workshop/">Firebase Workshop</a> (React review/componentization)</td>
 <td>-</td>
 </tr>
 
@@ -107,7 +107,7 @@
 <td><strong>Module_4</strong></td>
 <td><a href="https://gist.github.com/BritneyJo/e1159ed45635d3f776fb526a13d41109">React Blog Exercise</a></td>
 <td><a href="./w07/d02/react-tvmaze/">TVmaze Components</a></td>
-<td>-</td>
+<td><a href="./w07/d04/firebase-workshop/">Firebase Workshop</a> (adding Firebase/logic)</td>
 <td>-</td>
 <td>-</td>
 </tr>

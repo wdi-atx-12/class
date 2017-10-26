@@ -90,7 +90,7 @@
 <td><a href="./w07/d01/react-sample-app/">React Part I</a></td>
 <td><a href="./w07/d02/concrete-calculator/">Concrete Calculator</a></td>
 <td>React + APIs <a href="./w07/d03/chucknorris/">(Chuck Norris Jokes)</a></td>
-<td><a href="./w07/d02/react-component-lifecycle/">React Component Lifecycle</a></td>
+<td><a href="./w07/d04/react-component-lifecycle/">React Component Lifecycle</a></td>
 <td>-</td>
 </tr>
 

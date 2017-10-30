@@ -1,0 +1,79 @@
+body {
+  padding-top: 70px;
+  font-family: helvetica, sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Damion', cursive;
+  font-size: 230%;
+}
+
+.navbar-profile-pic {
+  width: 30px;
+  height: 30px;
+  margin-right: 7px;
+  padding: 1px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+}
+
+.main {
+  padding-top: 17px;
+}
+
+.form-add-quote .row {
+  padding: 0 28px 7px;
+}
+
+.form-add-quote {
+  margin-bottom: 24px;
+}
+
+.quote {
+  padding-right: 10%;
+}
+
+.quote-profile {
+  text-align: center;
+  padding-top: 4px;
+}
+
+.quote-profile-pic {
+  width: 50px;
+  height: 50px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.quote-author {
+  text-align: right;
+}
+
+blockquote:before {
+  display: block;
+  content: "\201C";
+  font-size: 80px;
+  position: absolute;
+  top: -20px;
+  color: #7a7a7a;
+}
+
+blockquote p {
+  padding-left: 40px;
+  font-size: 175%;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+blockquote footer {
+  margin: 0;
+}
+
+footer {
+  text-align: center;
+  margin: 1.4rem 5rem 5rem;
+  color: silver;
+  font-size: 1.4rem;
+}
+footer .heart {
+  color: #cf2e31;
+}

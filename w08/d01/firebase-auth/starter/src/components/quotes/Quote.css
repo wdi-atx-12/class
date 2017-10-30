@@ -1,0 +1,38 @@
+.quote {
+  padding-right: 10%;
+}
+
+.quote-profile {
+  text-align: center;
+  padding-top: 4px;
+}
+
+.quote-profile-pic {
+  width: 50px;
+  height: 50px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.quote-author {
+  text-align: right;
+}
+
+blockquote:before {
+  display: block;
+  content: "\201C";
+  font-size: 80px;
+  position: absolute;
+  top: -20px;
+  color: #7a7a7a;
+}
+
+blockquote p {
+  padding-left: 40px;
+  font-size: 175%;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+blockquote footer {
+  margin: 0;
+}

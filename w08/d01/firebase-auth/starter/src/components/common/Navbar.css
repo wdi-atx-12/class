@@ -1,0 +1,17 @@
+.navbar-brand {
+  font-family: 'Damion', cursive;
+  font-size: 230%;
+}
+
+.navbar-profile-pic {
+  width: 30px;
+  height: 30px;
+  margin-right: 7px;
+  padding: 1px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+}
+
+.btn-login {
+  margin-top: 8px;
+}

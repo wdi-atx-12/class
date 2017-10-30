@@ -5,9 +5,9 @@
   "dependencies": {
     "dotenv": "^4.0.0",
     "firebase": "^3.8.0",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4",
-    "react-router-dom": "^4.1.1"
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
     "react-scripts": "0.9.5"

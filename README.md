@@ -62,6 +62,66 @@
 </tr>
 </tbody></table>-->
 
+#### Week 8 - Additional React Topics
+
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>Module_1</strong></td>
+<td>Code Wars</td>
+<td>-</td>
+<td>Outcomes</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_2</strong></td>
+<td><a href="./w08/d01/firebase-auth/">Firebase Auth</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_3</strong></td>
+<td><a href="./w08/d01/firebase-auth/starter/">Firebase Auth Lab</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Module_4</strong></td>
+<td><a href="./w08/d01/firebase-auth/starter/">Firebase Auth Lab</a></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td><strong>Training</strong></td>
+<td>Install React Native</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody></table>
+
 #### Week 7 - React Intro
 
 <table><thead>

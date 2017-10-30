@@ -20,7 +20,7 @@
 ### Devin Ryan
 
 - [What the function()?](https://medium.com/@devinryan/what-the-function-e70290a48947)
-- Blog Post 2: Coming Soon
+- [First steps to using ES6](https://medium.com/@devinryan/writing-strings-with-es6-da98c7ce6a86)
 - Blog Post 3: Coming Soon
 
 ### Francisco Ordaz

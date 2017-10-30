@@ -78,7 +78,7 @@
 <tbody>
 <tr>
 <td><strong>Module_1</strong></td>
-<td>Code Wars</td>
+<td><a href="https://github.com/wdi-atx-12/Codewars-Morning-Exercises">Code Wars</a></td>
 <td>-</td>
 <td>Outcomes</td>
 <td>-</td>

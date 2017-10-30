@@ -142,7 +142,7 @@
 <td>Calculator CSS</td>
 <td>Outcomes</td>
 <td>Blog Post #2 Presentations</td>
-<td>-</td>
+<td>Week 7 Surveys</td>
 </tr>
 
 <tr>
@@ -151,7 +151,7 @@
 <td><a href="./w07/d02/concrete-calculator/">Concrete Calculator</a></td>
 <td>React + APIs <a href="./w07/d03/chucknorris/">(Chuck Norris Jokes)</a></td>
 <td><a href="./w07/d04/react-component-lifecycle/">React Component Lifecycle</a></td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/ga-cards-react">GA Cards Against Assembly Lab</a></td>
 </tr>
 
 <tr>
@@ -176,7 +176,7 @@
 <td><strong>Training</strong></td>
 <td><a href="https://github.com/wdi-atx-12/react-calculator-components">React Calculator Components</a></td>
 <td><a href="https://github.com/wdi-atx-12/react-stopwatch">React Stopwatch</a></td>
-<td>Blog Post #2</td>
+<td><a href="blogging.md">Blog Post #2</a></td>
 <td><a href="https://github.com/wdi-atx-12/atm-react">React ATM</a></td>
 <td>-</td>
 </tr>

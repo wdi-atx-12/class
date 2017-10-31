@@ -12,6 +12,7 @@ import {
   View
 } from 'react-native';
 import ContactList from './ContactList';
+import contactsData from './contactsData';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
@@ -21,10 +22,17 @@ const instructions = Platform.select({
 });
 
 export default class ContactApp extends Component<{}> {
+  constructor(props){
+    super(props);
+    this.state = {
+      contacts: contactsData,
+      searchTerm: ''
+    }
+  }
   render() {
     return (
       <View style={styles.container}>
-        <ContactList />
+        <ContactList data={this.state.contacts}/>
       </View>
     );
   }

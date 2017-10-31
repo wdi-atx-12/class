@@ -79,7 +79,7 @@
 <tr>
 <td><strong>Module_1</strong></td>
 <td><a href="https://github.com/wdi-atx-12/Codewars-Morning-Exercises">Code Wars</a></td>
-<td>-</td>
+<td><a href="https://codepen.io/anon/pen/YwxgvW">React Code Challenge</a></td>
 <td>Outcomes</td>
 <td>-</td>
 <td>-</td>
@@ -88,7 +88,7 @@
 <tr>
 <td><strong>Module_2</strong></td>
 <td><a href="./w08/d01/firebase-auth/">Firebase Auth</a></td>
-<td>-</td>
+<td><a href="./w08/d02/">React Native</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -97,7 +97,7 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td><a href="./w08/d01/firebase-auth/starter/">Firebase Auth Lab</a></td>
-<td>-</td>
+<td><a href="./w08/d02/">React Native Workshop</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -106,7 +106,7 @@
 <tr>
 <td><strong>Module_4</strong></td>
 <td><a href="./w08/d01/firebase-auth/starter/">Firebase Auth Lab</a></td>
-<td>-</td>
+<td><a href="./w08/d02/">React Native Workshop</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

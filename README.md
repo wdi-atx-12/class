@@ -88,7 +88,7 @@
 <tr>
 <td><strong>Module_2</strong></td>
 <td><a href="./w08/d01/firebase-auth/">Firebase Auth</a></td>
-<td><a href="./w08/d02/">React Native</a></td>
+<td><a href="./w08/d02/contactsApp/">React Native</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -97,7 +97,7 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td><a href="./w08/d01/firebase-auth/starter/">Firebase Auth Lab</a></td>
-<td><a href="./w08/d02/">React Native Workshop</a></td>
+<td><a href="./w08/d02/contactsApp/">React Native Workshop</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -106,7 +106,7 @@
 <tr>
 <td><strong>Module_4</strong></td>
 <td><a href="./w08/d01/firebase-auth/starter/">Firebase Auth Lab</a></td>
-<td><a href="./w08/d02/">React Native Workshop</a></td>
+<td>Happy Halloween!</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

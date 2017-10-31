@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import ContactApp from './App';
 
-AppRegistry.registerComponent('contactsApp', () => App);
+AppRegistry.registerComponent('contactsApp', () => ContactApp);

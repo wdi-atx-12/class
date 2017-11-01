@@ -116,7 +116,7 @@
 <td><strong>Training</strong></td>
 <td>Install React Native</td>
 <td>Happy Halloween!</td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/ux-reading">UX Reading</a></td>
 <td>-</td>
 <td>-</td>
 </tr>

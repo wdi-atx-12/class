@@ -39,6 +39,6 @@
 
 Tax liability is calculated based on `taxableIncome` as follows: The first $30,000 of taxable income does not increase tax liability, income between $30,000 and $60,000 is taxed at a rate of 20%, income between $60,000 and $100,000 is taxed at a rate of 30%, and income over $100,000 is taxed at a rate of 45%.
 
-For example, a `taxableIncome` of `70000` would have a tax liability of $4,000 (no liability for the first $30,000 plus $6,000 (20% for the amount between $30k and $60k), plus $3,000 (30% of $10,000 since the last $10,000 falls in the $60k-$100k range))
+For example, a `taxableIncome` of `70000` would have a tax liability of $9,000 (no liability for the first $30,000 plus $6,000 (20% for the amount between $30k and $60k), plus $3,000 (30% of $10,000 since the last $10,000 falls in the $60k-$100k range))
 
 7. The Fibonacci sequence is a series of numbers starting with `1, 1, 2, 3, 5, 8, 13, …` where each number is equal to the two previous numbers added together. Write a function that returns the n-th number in the Fibonacci sequence. _e.g._ `fibonacci(4)` will return `3` (the 4th number), `fibonacci(7)` will return `13` (the 7th number), `fibonacci(10)` = `55`, etc.

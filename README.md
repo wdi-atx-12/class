@@ -106,8 +106,8 @@
 <tr>
 <td><strong>Module_4</strong></td>
 <td><a href="./w08/d01/firebase-auth/starter/">Firebase Auth Lab</a></td>
-<td><a href="./w08/d03/">Coast Guard GAR Lab</a></td>
 <td>-</td>
+<td><a href="./w08/d03/">Coast Guard GAR Lab</a></td>
 <td>-</td>
 <td>-</td>
 </tr>

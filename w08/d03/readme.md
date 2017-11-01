@@ -37,7 +37,7 @@ We are going to follow the design of Riley's [Coast GAR'd App](https://itunes.ap
 
 ## Groups
 
-- Miguel, Matt C, Sophia
+- Matt C, Sophia
 
 - Andrew, Wes
 

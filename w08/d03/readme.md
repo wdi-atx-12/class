@@ -2,7 +2,7 @@
 
 We are going to build a Risk Assessment and Management tool to be used by the Coast Guard in React Native.
 
-** There are 6 elements of GAR Assessment:**
+**There are 6 elements of GAR Assessment:**
 1. Supervision: Supervisor Qualification/Engagement
 2. Planning: Time, Effort, Quality
 3. Crew Selection: Assignment vs. Experience
@@ -25,15 +25,15 @@ We are going to follow the design of Riley's [Coast GAR'd App](https://itunes.ap
 4. Create custom `_total()` method
 5. Add custom `_color()` method to update header bar styles
 6. Update styles
-<details>
-  <summary>Want a hint?</summary>
-  check out PixelRatio react-native class
-</details>
+  <details>
+    <summary>Want a hint?</summary>
+    check out PixelRatio react-native class
+  </details>
 7. Add Reset button and functionality  
-<details>
-  <summary>Want a hint?</summary>
-  check out TouchableHighlight react-native class
-</details>
+  <details>
+    <summary>Want a hint?</summary>
+    check out TouchableHighlight react-native class
+  </details>
 
 ## Groups
 

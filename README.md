@@ -99,7 +99,7 @@
 <td><a href="./w08/d01/firebase-auth/starter/">Firebase Auth Lab</a></td>
 <td><a href="./w08/d02/contactsApp/">React Native Workshop</a></td>
 <td><a href="./w08/d03/">Coast Guard GAR Lab</a></td>
-<td>JIGSAW Front-End Framework Research</td>
+<td><a href="https://docs.google.com/document/d/1dxhde0hKruayGtv3yEl_wanOrhsL6bhTzPl197P9S6M/edit">JIGSAW Front-End Framework Research</a></td>
 <td>Immersive Improv</td>
 </tr>
 
@@ -117,8 +117,8 @@
 <td>Install React Native</td>
 <td>Happy Halloween!</td>
 <td><a href="https://github.com/wdi-atx-12/ux-reading">UX Reading</a></td>
-<td>-</td>
-<td>-</td>
+<td>Project 02 planning</td>
+<td>Project 02</td>
 </tr>
 </tbody></table>
 

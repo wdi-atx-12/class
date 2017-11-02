@@ -81,8 +81,8 @@
 <td><a href="https://github.com/wdi-atx-12/Codewars-Morning-Exercises">Code Wars</a></td>
 <td><a href="https://codepen.io/anon/pen/YwxgvW">React Code Challenge</a></td>
 <td>Outcomes</td>
-<td>-</td>
-<td>-</td>
+<td>UX Lesson with Shari</td>
+<td>UX Collaboration</td>
 </tr>
 
 <tr>
@@ -90,8 +90,8 @@
 <td><a href="./w08/d01/firebase-auth/">Firebase Auth</a></td>
 <td><a href="./w08/d02/contactsApp/">React Native</a></td>
 <td><a href="./interview-questions/">Interview Practice</a></td>
-<td>-</td>
-<td>-</td>
+<td>JIGSAW Front-End Framework Research</td>
+<td>UX Collaboration</td>
 </tr>
 
 <tr>
@@ -99,8 +99,8 @@
 <td><a href="./w08/d01/firebase-auth/starter/">Firebase Auth Lab</a></td>
 <td><a href="./w08/d02/contactsApp/">React Native Workshop</a></td>
 <td><a href="./w08/d03/">Coast Guard GAR Lab</a></td>
-<td>-</td>
-<td>-</td>
+<td>JIGSAW Front-End Framework Research</td>
+<td>Immersive Improv</td>
 </tr>
 
 <tr>
@@ -108,8 +108,8 @@
 <td><a href="./w08/d01/firebase-auth/starter/">Firebase Auth Lab</a></td>
 <td>-</td>
 <td><a href="./w08/d03/">Coast Guard GAR Lab</a></td>
-<td>-</td>
-<td>-</td>
+<td><a href="./w08/d05/">Project 02 Announced</a></td>
+<td><a href="./w08/d05/">Project 02</a></td>
 </tr>
 
 <tr>

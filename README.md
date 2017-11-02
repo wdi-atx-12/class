@@ -89,7 +89,7 @@
 <td><strong>Module_2</strong></td>
 <td><a href="./w08/d01/firebase-auth/">Firebase Auth</a></td>
 <td><a href="./w08/d02/contactsApp/">React Native</a></td>
-<td>White Boarding</td>
+<td><a href="./interview-questions/">Interview Practice</a></td>
 <td>-</td>
 <td>-</td>
 </tr>

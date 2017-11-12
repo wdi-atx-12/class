@@ -1,8 +1,8 @@
 # WDI ATX 12
 
-## Unit 3: Front-End Frameworks
+## Unit 4: Python, Interview Prep, etc.
 
-<!--#### Week X - WEEK TOPICS
+<!--#### Week 11 - WEEK TOPICS
 
 <table><thead>
 <tr>
@@ -21,13 +21,73 @@
 <td>-</td>
 <td>-</td>
 <td>Outcomes</td>
+<td>Holiday (Thanksgiving)</td>
+<td>Holiday (Thanksgiving)</td>
+</tr>
+
+<tr>
+<td><strong>Module_2</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Holiday (Thanksgiving)</td>
+<td>Holiday (Thanksgiving)</td>
+</tr>
+
+<tr>
+<td><strong>Module_3</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Holiday (Thanksgiving)</td>
+<td>Holiday (Thanksgiving)</td>
+</tr>
+
+<tr>
+<td><strong>Module_4</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Holiday (Thanksgiving)</td>
+<td>Holiday (Thanksgiving)</td>
+</tr>
+
+<tr>
+<td><strong>Training</strong></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody></table>-->
+
+#### Week 10 - Intro to Python
+
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>Module_1</strong></td>
+<td>Intro to Python - Basic Syntax</td>
+<td>-</td>
+<td>Outcomes</td>
 <td>-</td>
 <td>-</td>
 </tr>
 
 <tr>
 <td><strong>Module_2</strong></td>
-<td>-</td>
+<td>Prep: Interviewing, Networking, etc</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -36,7 +96,7 @@
 
 <tr>
 <td><strong>Module_3</strong></td>
-<td>-</td>
+<td>Python - Practice Exercies</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -45,7 +105,7 @@
 
 <tr>
 <td><strong>Module_4</strong></td>
-<td>-</td>
+<td>Python - Practice Exercies</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -60,7 +120,9 @@
 <td>-</td>
 <td>-</td>
 </tr>
-</tbody></table>-->
+</tbody></table>
+
+## Unit 3: Front-End Frameworks
 
 #### Week 8 - Additional React Topics
 

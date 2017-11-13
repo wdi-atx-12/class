@@ -24,7 +24,7 @@ Your squad is **not** the same as the group you'll have for the unit group proje
 | Karla | Jesse | Raul | Sophia | 
 | Matt C | Matt R | TJ | Francisco | 
 | James | Natasha | Wes | Devin | 
-| Dazaev | Carrington | Peter | - |
+| Dazaev | Carrington | Peter | Andrew |
 | Jay | Miguel | - | - |
 
 

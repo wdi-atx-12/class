@@ -19,13 +19,12 @@ Your squad is **not** the same as the group you'll have for the unit group proje
 
 # Unit 4 Squads
 
-| Squad 1 | Squad 2 | Squad 3 | Squad 4 | 
-| --- | --- | --- | --- | 
-| Karla | Jesse | Raul | Sophia | 
-| Matt C | Matt R | TJ | Francisco | 
-| James | Natasha | Wes | Devin | 
-| Dazaev | Carrington | Peter | Andrew |
-| Jay | Miguel | - | - |
+| Squad 1 | Squad 2 | Squad 3 | Squad 4 | Squad 5 |
+| --- | --- | --- | --- | --- |
+| Karla | Jesse | Raul | Sophia | Jay |
+| Matt C | Matt R | TJ | Francisco | Devin |
+| James | Natasha | Wes | Andrew | Peter
+| Dazaev | Carrington | - | - | Miguel |
 
 
 # Unit 3 Squads

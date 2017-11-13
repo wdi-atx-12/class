@@ -18,13 +18,14 @@ Your squad is **not** the same as the group you'll have for the unit group proje
 | Britney Jo           | [britneyjo](https://github.com/britneyjo) |
 
 # Unit 4 Squads
+
 | Squad 1 | Squad 2 | Squad 3 | Squad 4 | 
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | 
 | Karla | Jesse | Raul | Sophia | 
 | Matt C | Matt R | TJ | Francisco | 
 | James | Natasha | Wes | Devin | 
-| Dazaev | Carrington | Peter |  |
-| Jay | Miguel | | |
+| Dazaev | Carrington | Peter | - |
+| Jay | Miguel | - | - |
 
 
 # Unit 3 Squads

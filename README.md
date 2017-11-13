@@ -78,7 +78,7 @@
 <tbody>
 <tr>
 <td><strong>Module_1</strong></td>
-<td>Intro to Python - Basic Syntax</td>
+<td><a href="./w10/d01/python-basics/">Intro to Python - Basic Syntax</a></td>
 <td>-</td>
 <td>Outcomes</td>
 <td>-</td>

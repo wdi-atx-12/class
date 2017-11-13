@@ -71,8 +71,7 @@ Variables can be defined without being previously declared. Variable reassignmen
 >>> x = "This is Dane." # reassigns x to string value
 ```
 
-Also similar to Ruby, variables in Python _cannot_ be called or stated without
-being defined.
+Unlike JavaScript (where variables are `undefined` on the scope they are declared until they are given a value), variables in Python _cannot_ be called or stated without being defined. That is, until a variable has been given a value, it cannot be used at all.
 
 ```python
 >>> z
@@ -92,11 +91,11 @@ The falsy values of Python are:
 
 ### Operators
 
-|                      |        Ruby                          |        Python               |
-|:---------------------|:------------------------------------:|:---------------------------:|
-| logical operators    | `&&`, <code>&#124;&#124;</code>, `!` | `and`, `or`, `not`          |
-| relational operators | `==` `!=` `>` `<` `>=` `<=`          | `==` `!=` `>` `<` `>=` `<=` |
-| arithmetic operators | `+`, `-`, `*`, `/` `//`, `%`         | `+`, `-`, `*`, `/`, `%`     |
+|                      |        JavaScript                    |        Python                 |
+|:---------------------|:------------------------------------:|:-----------------------------:|
+| logical operators    | `&&`, <code>&#124;&#124;</code>, `!` | `and`, `or`, `not`            |
+| relational operators | `==` `!=` `>` `<` `>=` `<=`          | `==` `!=` `>` `<` `>=` `<=`   |
+| arithmetic operators | `+`, `-`, `*`, `/`, `%`              | `+`, `-`, `*`, `/`, `//`, `%` |
 
 #### Brief Aside: Double Slash (`//`) Operator
 
@@ -250,7 +249,7 @@ of varying data types between square brackets `[]`.
 Lists are ordered, thus, indices can be leveraged to get or set their elements.
 
 ```python
-programming_langs = ["JavaScript", "Ruby", "Java"]
+programming_langs = ["JS", "Ruby", "Java"]
 programming_langs[2] # => "Java"
 programming_langs[0] = "JavaScript" # => ["JavaScript", "Ruby", "Java"]
 ```

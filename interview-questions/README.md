@@ -4,6 +4,7 @@ Here is a collection of common interview questions. Many questions are difficult
 
 Interviewers will ask you many different questions and you will not have an answer for everything. You need to accept that now and additionally practice how to gracefully answer "I don't know."
 
+- [General Interview Questions](./00-general-interview-questions.md)
 - [Web and Browser Concepts](./01-web-browser-concepts.md)
 - [HTML and CSS Concepts](./02-html-css-concepts.md)
 - [JavaScript Concepts](./03-javascript-concepts.md)

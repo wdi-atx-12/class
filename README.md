@@ -87,7 +87,7 @@
 
 <tr>
 <td><strong>Module_2</strong></td>
-<td>Prep: Interviewing, Networking, etc</td>
+<td><a href="./w10/d01/interview-101.md">Prep: Interviewing, Networking, etc</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

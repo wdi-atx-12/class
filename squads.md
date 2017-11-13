@@ -17,6 +17,17 @@ Your squad is **not** the same as the group you'll have for the unit group proje
 | Chris Johnson        | [jhnsnc](https://github.com/jhnsnc) |
 | Britney Jo           | [britneyjo](https://github.com/britneyjo) |
 
+# Unit 4 Squads
+
+SQUAD 1: Karla, Matt C, James, Dazaev, Jay
+----
+SQUAD 2: Jesse, Matt R, Natasha, Miguel, Carrington
+----
+SQUAD 3: Raul, TJ, Wes, Andrew
+----
+SQUAD 4: Sophia, Francisco, Devin, Peter
+----
+
 # Unit 3 Squads
 
 | Squad 1 | Squad 2 | Squad 3 | Squad 4 | Squad 5 |

@@ -105,7 +105,7 @@
 
 <tr>
 <td><strong>Module_4</strong></td>
-<td>Python - Practice Exercies</td>
+<td>Interview - Questions Practice</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -114,7 +114,7 @@
 
 <tr>
 <td><strong>Training</strong></td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/python_challenges">Python Challenges</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

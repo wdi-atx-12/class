@@ -79,7 +79,7 @@
 <tr>
 <td><strong>Module_1</strong></td>
 <td><a href="./w10/d01/python-basics/">Intro to Python - Basic Syntax</a></td>
-<td>-</td>
+<td><a href="./w10/d02/algorithms/">Intro to Algorithms / Big-O Notation</a></td>
 <td>Outcomes</td>
 <td>-</td>
 <td>-</td>
@@ -88,7 +88,7 @@
 <tr>
 <td><strong>Module_2</strong></td>
 <td><a href="./w10/d01/interview-101.md">Prep: Interviewing, Networking, etc</a></td>
-<td>-</td>
+<td><a href="./w10/d02/algorithms/">Bubble Sort, Merge Sort, and Binary Search</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

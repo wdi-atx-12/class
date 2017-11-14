@@ -115,7 +115,7 @@
 <tr>
 <td><strong>Training</strong></td>
 <td><a href="https://github.com/wdi-atx-12/python_challenges">Python Challenges</a></td>
-<td>-</td>
+<td>Finish <a href="https://github.com/wdi-atx-12/sql-carmen-sandiego">Carmen San Diego Lab</a> && <a href="blogging.md">BLOGS!!</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

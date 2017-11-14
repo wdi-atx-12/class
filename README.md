@@ -97,7 +97,7 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td>Python - Practice Exercies</td>
-<td>-</td>
+<td><a href="./w10/d02/sql/">Intro to SQL</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -106,7 +106,7 @@
 <tr>
 <td><strong>Module_4</strong></td>
 <td>Interview - Questions Practice</td>
-<td>-</td>
+<td><a href="https://github.com/wdi-atx-12/sql-carmen-sandiego">SQL, Carmen San Diego, and You!</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

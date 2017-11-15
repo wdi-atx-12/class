@@ -89,7 +89,7 @@
 <td><strong>Module_2</strong></td>
 <td><a href="./w10/d01/interview-101.md">Prep: Interviewing, Networking, etc</a></td>
 <td><a href="./w10/d02/algorithms/">Bubble Sort, Merge Sort, and Binary Search</a></td>
-<td>-</td>
+<td>Guest Lecture</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -98,7 +98,7 @@
 <td><strong>Module_3</strong></td>
 <td>Python - Practice Exercies</td>
 <td><a href="./w10/d02/sql/">Intro to SQL</a></td>
-<td>-</td>
+<td><a href="./w10/d03/python-classes/">Python - Classes</a></td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -107,7 +107,7 @@
 <td><strong>Module_4</strong></td>
 <td>Interview - Questions Practice</td>
 <td><a href="https://github.com/wdi-atx-12/sql-carmen-sandiego">SQL, Carmen San Diego, and You!</a></td>
-<td>-</td>
+<td><a href="./w10/d03/python-classes/">Python - Classes</a></td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -115,7 +115,7 @@
 <tr>
 <td><strong>Training</strong></td>
 <td><a href="https://github.com/wdi-atx-12/python_challenges">Python Challenges</a></td>
-<td>Finish <a href="https://github.com/wdi-atx-12/sql-carmen-sandiego">Carmen San Diego Lab</a> && <a href="blogging.md">BLOGS!!</a></td>
+<td>Finish <a href="https://github.com/wdi-atx-12/sql-carmen-sandiego">Carmen San Diego Lab</a> &amp;&amp; <a href="blogging.md">BLOGS!!</a></td>
 <td>-</td>
 <td>-</td>
 <td>-</td>

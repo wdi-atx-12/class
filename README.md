@@ -116,7 +116,7 @@
 <td><strong>Training</strong></td>
 <td><a href="https://github.com/wdi-atx-12/python_challenges">Python Challenges</a></td>
 <td>Finish <a href="https://github.com/wdi-atx-12/sql-carmen-sandiego">SQL Carmen San Diego</a> &amp;&amp; <a href="blogging.md">BLOGS!!</a></td>
-<td><a href="https://github.com/wdi-atx-12/deck_of_cards">Python Deck Of Cards</a></td>
+<td><a href="https://github.com/wdi-atx-12/deck_of_cards">Python Deck Of Cards</a> and 3rd blog post</td>
 <td>-</td>
 <td>-</td>
 </tr>

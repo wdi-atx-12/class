@@ -44,13 +44,13 @@ class CoffeeCup():
   def __init__(self, capacity):
     self.capacity = capacity
     self.amount = 0
-  
+
   def fill(self):
     self.amount = self.capacity
-  
+
   def empty(self):
     self.amount = 0
-  
+
   def drink(self, amount):
     self.amount -= amount
     if (self.amount < 0):
@@ -148,7 +148,7 @@ class ShyPerson():
     print('Hi! My name is {}!'.format(self.name))
 
   def have_a_drink(self):
-    print('{} had something to drink.')
+    print('{} had something to drink.'.format(self.name))
     self.__introduce_self()
 ```
 
@@ -166,7 +166,7 @@ chris.have_a_drink()
 
 ## Packages and Modules
 
-A module is a file containing Python definitions and statements. Modules allow us to write code in a reusable manner, any code within modules are loaded once and cached into `.pyc` files as bytecode. 
+A module is a file containing Python definitions and statements. Modules allow us to write code in a reusable manner, any code within modules are loaded once and cached into `.pyc` files as bytecode.
 
 A Package in Python is just a directory with an `__init__.py` file in it. The file can be empty. Packages help us organize our code another level above just using modules.
 
@@ -210,7 +210,7 @@ print(britney_jo_cup.amount)
 
 ## Exercise: Create Your Own Class
 Write a `BankAccount` class.
-* Bank accounts should be created with the `type` of account (like "savings" or "checqg").
+* Bank accounts should be created with the `type` of account (like "savings" or "checking").
 * Each account should keep track of it's current `balance`.
 * Start each account with a `balance` set to zero.
 * Add a `deposit` method, which adds to the `balance`, prints a message about the transaction, and returns the new balance.
@@ -263,10 +263,10 @@ class Point():
   def __init__(self, x=0, y=0):
     self.x = x
     self.y = y
-  
+
   def __str__(self):
     return "({},{})".format(self.x, self.y)
-  
+
   def distance(self):
     return (self.x ** 2 + self.y ** 2) ** .5
 ```
@@ -310,10 +310,10 @@ class Point():
   def __init__(self, x=0, y=0):
     self.x = x
     self.y = y
-  
+
   def __str__(self):
     return "({},{})".format(self.x, self.y)
-  
+
   def distance(self, p2=None):
     if p2 is None:
       p2 = Point.ORIGIN

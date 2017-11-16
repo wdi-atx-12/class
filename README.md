@@ -90,7 +90,7 @@
 <td><a href="./w10/d01/interview-101.md">Prep: Interviewing, Networking, etc</a></td>
 <td><a href="./w10/d02/algorithms/">Bubble Sort, Merge Sort, and Binary Search</a></td>
 <td><a href="https://github.com/allizad/react-search-example">Open-Source Search</a> with <a href="http://allizad.com/">Allie Zadrozny</a></td>
-<td>-</td>
+<td>Interview Practice</td>
 <td>-</td>
 </tr>
 
@@ -99,7 +99,7 @@
 <td>Python - Practice Exercies</td>
 <td><a href="./w10/d02/sql/">Intro to SQL</a></td>
 <td><a href="./w10/d03/python-classes/">Python - Classes</a></td>
-<td>-</td>
+<td><a href="./w10/d04/python-class-inheritance/">Python - Class Inheritance</a></td>
 <td>-</td>
 </tr>
 
@@ -108,7 +108,7 @@
 <td>Interview - Questions Practice</td>
 <td><a href="https://github.com/wdi-atx-12/sql-carmen-sandiego">SQL, Carmen San Diego, and You!</a></td>
 <td><a href="./w10/d03/python-classes/">Python - Classes</a></td>
-<td>-</td>
+<td><a href="./w10/d04/python-class-inheritance/">Python - Class Inheritance</a></td>
 <td>-</td>
 </tr>
 

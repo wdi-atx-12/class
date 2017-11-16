@@ -106,7 +106,7 @@
 
 - [What the Effing Eff is Express?](https://medium.com/@tjloughry/what-the-effing-eff-is-express-39c517bb40f6)
 - [SITTING DOWN IS LITERALLY F***ING KILLING YOU!](https://medium.com/@tjloughry/sitting-down-is-literally-f-ing-killing-you-1b91e5d644a)
-- [DIY Bootstrap is actually just doing it yourself]()
+- [DIY Bootstrap is actually just doing it yourself](https://medium.com/@tjloughry/diy-bootstrap-is-actually-just-doing-it-yourself-c28e59a90ba2)
 
 ### Wes Maffly-Kipp
 

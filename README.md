@@ -109,7 +109,7 @@
 <td><a href="https://github.com/wdi-atx-12/sql-carmen-sandiego">SQL, Carmen San Diego, and You!</a></td>
 <td><a href="./w10/d03/python-classes/">Python - Classes</a></td>
 <td><a href="./w10/d04/python-class-inheritance/">Python - Class Inheritance</a></td>
-<td>-</td>
+<td>Final Project Approvals</td>
 </tr>
 
 <tr>

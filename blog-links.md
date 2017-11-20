@@ -45,7 +45,7 @@
 ### Jay Lara
 
 - [Hello World! My name is eval()](https://medium.com/@jaylara1/hello-world-my-name-is-eval-part-0-a949d8b81547)
-- Blog Post 2: Coming Soon
+- [React + Redux: Simple](https://medium.com/@jaylara1/react-redux-simple-feabd15a9435)
 - [Using a Custom HTML Attribute to Display a ToolTip](https://medium.com/@jaylara1/using-a-custom-html-attribute-to-display-a-tooltip-5bf6bafedf9a)
 
 ### Jesse Lewis

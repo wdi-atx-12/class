@@ -82,7 +82,7 @@
 <td><a href="./w10/d02/algorithms/">Intro to Algorithms / Big-O Notation</a></td>
 <td>Outcomes</td>
 <td>Blog #3 Presentations</td>
-<td>-</td>
+<td>DJANGO self-learning or <a href="https://github.com/wdi-atx-12/TreasureGram">lab</a></td>
 </tr>
 
 <tr>
@@ -91,7 +91,7 @@
 <td><a href="./w10/d02/algorithms/">Bubble Sort, Merge Sort, and Binary Search</a></td>
 <td><a href="https://github.com/allizad/react-search-example">Open-Source Search</a> with <a href="http://allizad.com/">Allie Zadrozny</a></td>
 <td>Interview Practice</td>
-<td>-</td>
+<td>DJANGO self-learning or <a href="https://github.com/wdi-atx-12/TreasureGram">lab</a></td>
 </tr>
 
 <tr>
@@ -109,7 +109,7 @@
 <td><a href="https://github.com/wdi-atx-12/sql-carmen-sandiego">SQL, Carmen San Diego, and You!</a></td>
 <td><a href="./w10/d03/python-classes/">Python - Classes</a></td>
 <td><a href="https://docs.google.com/presentation/d/1QFQLizcuXIYL7A9AM99Y6ndnorwnvYvbhJzarhAzXQ4/edit?usp=sharing">Ethics of Programming</a></td>
-<td>-</td>
+<td>Final Project Approvals</td>
 </tr>
 
 <tr>
@@ -117,7 +117,7 @@
 <td><a href="https://github.com/wdi-atx-12/python_challenges">Python Challenges</a></td>
 <td>Finish <a href="https://github.com/wdi-atx-12/sql-carmen-sandiego">SQL Carmen San Diego</a> &amp;&amp; <a href="blogging.md">BLOGS!!</a></td>
 <td><a href="https://github.com/wdi-atx-12/deck_of_cards">Python Deck Of Cards</a> and 3rd blog post</td>
-<td>-</td>
+<td>Portfolios!</td>
 <td>-</td>
 </tr>
 </tbody></table>

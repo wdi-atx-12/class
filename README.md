@@ -2,7 +2,7 @@
 
 ## Unit 4: Python, Interview Prep, etc.
 
-<!--#### Week 11 - WEEK TOPICS
+#### Week 11 - Misc Topics, Job Search Prep
 
 <table><thead>
 <tr>
@@ -18,7 +18,7 @@
 <tbody>
 <tr>
 <td><strong>Module_1</strong></td>
-<td>-</td>
+<td>Peer Portfolio Feedback</td>
 <td>-</td>
 <td>Outcomes</td>
 <td>Holiday (Thanksgiving)</td>
@@ -27,7 +27,7 @@
 
 <tr>
 <td><strong>Module_2</strong></td>
-<td>-</td>
+<td>Guest Speaker - Technical Interviewing</td>
 <td>-</td>
 <td>-</td>
 <td>Holiday (Thanksgiving)</td>
@@ -36,7 +36,7 @@
 
 <tr>
 <td><strong>Module_3</strong></td>
-<td>-</td>
+<td><a href="https://docs.google.com/presentation/d/1EIfgQNFG7VVLynmaaVkvZ1izm8jbCRVNjYPmaDxHkvw/edit?usp=sharing">Debugging</a></td>
 <td>-</td>
 <td>-</td>
 <td>Holiday (Thanksgiving)</td>
@@ -60,7 +60,7 @@
 <td>-</td>
 <td>-</td>
 </tr>
-</tbody></table>-->
+</tbody></table>
 
 #### Week 10 - Intro to Python
 
@@ -100,7 +100,7 @@
 <td><a href="./w10/d02/sql/">Intro to SQL</a></td>
 <td><a href="./w10/d03/python-classes/">Python - Classes</a></td>
 <td><a href="./w10/d04/python-class-inheritance/">Python - Class Inheritance</a></td>
-<td>-</td>
+<td><a href="https://docs.google.com/presentation/d/1ppNvm68tU0qBq9xG72w3kzXSgw8EB4t8WJYbIbAlOmM/edit?usp=sharing">Sexism in Tech</a></td>
 </tr>
 
 <tr>
@@ -108,7 +108,7 @@
 <td>Interview - Questions Practice</td>
 <td><a href="https://github.com/wdi-atx-12/sql-carmen-sandiego">SQL, Carmen San Diego, and You!</a></td>
 <td><a href="./w10/d03/python-classes/">Python - Classes</a></td>
-<td><a href="./w10/d04/python-class-inheritance/">Python - Class Inheritance</a></td>
+<td><a href="https://docs.google.com/presentation/d/1QFQLizcuXIYL7A9AM99Y6ndnorwnvYvbhJzarhAzXQ4/edit?usp=sharing">Ethics of Programming</a></td>
 <td>-</td>
 </tr>
 

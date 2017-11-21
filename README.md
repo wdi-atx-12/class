@@ -37,7 +37,7 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td><a href="https://docs.google.com/presentation/d/1EIfgQNFG7VVLynmaaVkvZ1izm8jbCRVNjYPmaDxHkvw/edit?usp=sharing">Debugging</a></td>
-<td>Imposter Syndrome</td>
+<td><a href="https://docs.google.com/presentation/d/1F4-09N_mmkJ2qFFiWx4QFSWngpMoEeInOMmEYd2J08g/edit?usp=sharing">Imposter Syndrome</a></td>
 <td>-</td>
 <td>Holiday (Thanksgiving)</td>
 <td>Holiday (Thanksgiving)</td>

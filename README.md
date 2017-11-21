@@ -118,7 +118,7 @@
 <td>Finish <a href="https://github.com/wdi-atx-12/sql-carmen-sandiego">SQL Carmen San Diego</a> &amp;&amp; <a href="blogging.md">BLOGS!!</a></td>
 <td><a href="https://github.com/wdi-atx-12/deck_of_cards">Python Deck Of Cards</a> and 3rd blog post</td>
 <td>Portfolios!</td>
-<td>Amy Cuddy <a href="https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are">"Your Body Language Shakes Who You Are"</a></td>
+<td>Amy Cuddy <a href="https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are">"Your Body Language Shapes Who You Are"</a></td>
 </tr>
 </tbody></table>
 

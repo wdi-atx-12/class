@@ -20,7 +20,7 @@
 <td><strong>Module_1</strong></td>
 <td>Peer Portfolio Feedback</td>
 <td>IBM Cloud Native</td>
-<td>Outcomes</td>
+<td>-</td>
 <td>Holiday (Thanksgiving)</td>
 <td>Holiday (Thanksgiving)</td>
 </tr>

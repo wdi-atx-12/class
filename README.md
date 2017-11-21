@@ -19,7 +19,7 @@
 <tr>
 <td><strong>Module_1</strong></td>
 <td>Peer Portfolio Feedback</td>
-<td>-</td>
+<td>IBM Cloud Native</td>
 <td>Outcomes</td>
 <td>Holiday (Thanksgiving)</td>
 <td>Holiday (Thanksgiving)</td>
@@ -28,7 +28,7 @@
 <tr>
 <td><strong>Module_2</strong></td>
 <td>Guest Speaker - Technical Interviewing</td>
-<td>-</td>
+<td>IBM Cloud Native</td>
 <td>-</td>
 <td>Holiday (Thanksgiving)</td>
 <td>Holiday (Thanksgiving)</td>
@@ -37,7 +37,7 @@
 <tr>
 <td><strong>Module_3</strong></td>
 <td><a href="https://docs.google.com/presentation/d/1EIfgQNFG7VVLynmaaVkvZ1izm8jbCRVNjYPmaDxHkvw/edit?usp=sharing">Debugging</a></td>
-<td>-</td>
+<td>Imposter Syndrome</td>
 <td>-</td>
 <td>Holiday (Thanksgiving)</td>
 <td>Holiday (Thanksgiving)</td>
@@ -46,7 +46,7 @@
 <tr>
 <td><strong>Module_4</strong></td>
 <td>-</td>
-<td>-</td>
+<td>Technical Interview Prep</td>
 <td>-</td>
 <td>Holiday (Thanksgiving)</td>
 <td>Holiday (Thanksgiving)</td>

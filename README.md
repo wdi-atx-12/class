@@ -20,7 +20,7 @@
 <td><strong>Module_1</strong></td>
 <td>Peer Portfolio Feedback</td>
 <td>IBM Cloud Native</td>
-<td>-</td>
+<td>Course Review</td>
 <td>Holiday (Thanksgiving)</td>
 <td>Holiday (Thanksgiving)</td>
 </tr>
@@ -29,7 +29,7 @@
 <td><strong>Module_2</strong></td>
 <td>Guest Speaker - Technical Interviewing</td>
 <td>IBM Cloud Native</td>
-<td>-</td>
+<td><a href="https://docs.google.com/presentation/d/1KokB8rjFjzDnExCAzCWSwatBm8R5gPvtqp6oOJkYkew/edit?usp=sharing">Productivity, Continual Learning, etc</a></td>
 <td>Holiday (Thanksgiving)</td>
 <td>Holiday (Thanksgiving)</td>
 </tr>
@@ -38,16 +38,16 @@
 <td><strong>Module_3</strong></td>
 <td><a href="https://docs.google.com/presentation/d/1EIfgQNFG7VVLynmaaVkvZ1izm8jbCRVNjYPmaDxHkvw/edit?usp=sharing">Debugging</a></td>
 <td><a href="https://docs.google.com/presentation/d/1F4-09N_mmkJ2qFFiWx4QFSWngpMoEeInOMmEYd2J08g/edit?usp=sharing">Imposter Syndrome</a></td>
-<td>-</td>
+<td>Begin Final Projects</td>
 <td>Holiday (Thanksgiving)</td>
 <td>Holiday (Thanksgiving)</td>
 </tr>
 
 <tr>
 <td><strong>Module_4</strong></td>
-<td>-</td>
+<td>Portfolio Work Time</td>
 <td>Technical Interview Prep</td>
-<td>-</td>
+<td>Begin Final Projects</td>
 <td>Holiday (Thanksgiving)</td>
 <td>Holiday (Thanksgiving)</td>
 </tr>
